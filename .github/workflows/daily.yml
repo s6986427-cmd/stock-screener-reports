@@ -1,0 +1,47 @@
+name: Daily stock scan
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   # 07:00 UTC = 15:00 台北時間
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run 剛離底階梯 (sector)
+        run: python3 main.py
+
+      - name: Run 全市場（初期起漲 + 續漲確認）
+        run: python3 run_early_scan.py
+
+      - name: Run 剛噴出
+        run: python3 run_spike_scan.py
+
+      - name: Build web report
+        run: python3 build_web_report.py
+
+      - name: Publish index.html
+        run: cp web_report.html index.html
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html early_rally_result.json mid_rally_result.json spike_result.json sector_result.json
+          git diff --cached --quiet || git commit -m "自動更新選股報告 $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
