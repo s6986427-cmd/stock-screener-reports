@@ -9,6 +9,9 @@ import time
 import subprocess
 import pandas as pd
 from datetime import datetime
+from zoneinfo import ZoneInfo
+
+TW_TZ = ZoneInfo("Asia/Taipei")
 
 # 確保工作目錄正確
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
@@ -32,7 +35,7 @@ def main():
     start_time = time.time()
     print("=" * 50)
     print("  選股雷達啟動（七大產業模式）")
-    print(f"  時間：{datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    print(f"  時間：{datetime.now(TW_TZ).strftime('%Y-%m-%d %H:%M')}")
     print("=" * 50)
 
     # Step 1：取得上市+上櫃公司清單（只抓目標產業股票）
@@ -157,7 +160,7 @@ def main():
     records = final_df[json_cols].where(pd.notna(final_df[json_cols]), None).to_dict(orient="records")
     with open(os.path.join(output_dir, "sector_result.json"), "w", encoding="utf-8") as f:
         json.dump({
-            "generated_at": datetime.now().isoformat(),
+            "generated_at": datetime.now(TW_TZ).isoformat(),
             "total_scanned": len(target_codes),
             "hits": records,
         }, f, ensure_ascii=False, indent=2)

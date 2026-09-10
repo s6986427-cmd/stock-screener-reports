@@ -1,7 +1,10 @@
 """輸出 HTML 報告"""
 from jinja2 import Template
 from datetime import datetime
+from zoneinfo import ZoneInfo
 import os
+
+TW_TZ = ZoneInfo("Asia/Taipei")
 
 HTML_TEMPLATE = """
 <!DOCTYPE html>
@@ -196,8 +199,8 @@ HTML_TEMPLATE = """
 """
 
 def generate_report(final_df, total_analyzed, output_dir=".", mode="general"):
-    date_str = datetime.now().strftime("%Y-%m-%d %H:%M")
-    file_date = datetime.now().strftime("%Y%m%d")
+    date_str = datetime.now(TW_TZ).strftime("%Y-%m-%d %H:%M")
+    file_date = datetime.now(TW_TZ).strftime("%Y%m%d")
 
     hot = final_df[final_df["grade"] == "hot"].to_dict("records")
     watch = final_df[final_df["grade"] == "watch"].to_dict("records")

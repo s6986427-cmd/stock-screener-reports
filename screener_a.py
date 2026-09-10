@@ -4,6 +4,9 @@ import pandas as pd
 import yfinance as yf
 import time
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
+
+TW_TZ = ZoneInfo("Asia/Taipei")
 
 def fetch_eps_pe(code, market=None):
     """用 yfinance 抓本益比與季 EPS（上櫃股用 .TWO 後綴）"""
@@ -55,7 +58,7 @@ def fetch_eps_pe(code, market=None):
 def fetch_institutional(code):
     """從台灣證交所抓近 10 日三大法人買賣超"""
     try:
-        today = datetime.now()
+        today = datetime.now(TW_TZ)
         date_str = today.strftime("%Y%m%d")
         url = f"https://www.twse.com.tw/fund/TWT38U?response=json&date={date_str}&stockNo={code}"
         headers = {"User-Agent": "Mozilla/5.0"}

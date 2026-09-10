@@ -5,6 +5,9 @@ import sys
 import time
 import json
 from datetime import datetime
+from zoneinfo import ZoneInfo
+
+TW_TZ = ZoneInfo("Asia/Taipei")
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
@@ -16,7 +19,7 @@ def main():
     start = time.time()
     print("=" * 50)
     print("  初期起漲偵測（全市場）")
-    print(f"  時間：{datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    print(f"  時間：{datetime.now(TW_TZ).strftime('%Y-%m-%d %H:%M')}")
     print("=" * 50)
 
     stocks_df = get_all_listed_stocks(include_otc=True)
@@ -43,7 +46,7 @@ def main():
         records = result_df.to_dict(orient="records") if not result_df.empty else []
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump({
-                "generated_at": datetime.now().isoformat(),
+                "generated_at": datetime.now(TW_TZ).isoformat(),
                 "total_scanned": len(codes),
                 "hits": records,
             }, f, ensure_ascii=False, indent=2)

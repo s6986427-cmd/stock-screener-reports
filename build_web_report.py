@@ -3,6 +3,9 @@
 import os
 import json
 from datetime import datetime
+from zoneinfo import ZoneInfo
+
+TW_TZ = ZoneInfo("Asia/Taipei")
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
@@ -73,7 +76,7 @@ def main():
     sector_watch = [r for r in sector_hits if r.get("grade") == "watch"]
     sector_observe = [r for r in sector_hits if r.get("grade") == "observe"]
 
-    now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
+    now_str = datetime.now(TW_TZ).strftime("%Y-%m-%d %H:%M")
 
     early_html = "".join(early_card(r) for r in early_hits) or "<div class='empty'>目前沒有符合訊號的股票</div>"
     mid_html = "".join(early_card(r) for r in mid_hits) or "<div class='empty'>目前沒有符合訊號的股票</div>"
