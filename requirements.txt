@@ -1,6 +1,8 @@
 pandas
+numpy
 requests
 yfinance
 beautifulsoup4
 lxml
 html5lib
+jinja2
