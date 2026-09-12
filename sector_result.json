@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T19:57:53.073956+08:00",
+  "generated_at": "2026-09-12T19:24:46.757983+08:00",
   "total_scanned": 79,
   "hits": [
     {
@@ -8,14 +8,14 @@
       "sector": "連接元件",
       "industry": "電腦及週邊設備業",
       "price": 336.5,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 80,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 57.3,
       "vol_ratio": 1.34,
       "from_low_pct": 34.9,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "5443",
@@ -23,14 +23,14 @@
       "sector": "網通設備",
       "industry": "半導體業",
       "price": 105.5,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 80,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 55.0,
       "vol_ratio": 1.55,
       "from_low_pct": 37.7,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "4938",
@@ -38,14 +38,14 @@
       "sector": "連接元件",
       "industry": "電腦及週邊設備業",
       "price": 91.0,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 75,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 55.3,
       "vol_ratio": 0.88,
       "from_low_pct": 39.2,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3023",
@@ -53,14 +53,14 @@
       "sector": "印刷電路",
       "industry": "電子零組件業",
       "price": 322.0,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 65,
       "trend_score": 0,
       "one_liner": "受益於 AI 顯示器、工業機構件，位於供應鏈中游，顯示器支架與精密機構件。",
       "rsi": 52.2,
       "vol_ratio": 0.9,
       "from_low_pct": 78.3,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "4736",
@@ -68,14 +68,14 @@
       "sector": "網通設備",
       "industry": "生技醫療業",
       "price": 127.5,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 65,
       "trend_score": 0,
       "one_liner": "受益於 AI 儲存、NAS，位於供應鏈中游，企業級 NAS 儲存解決方案。",
       "rsi": 62.6,
       "vol_ratio": 0.58,
       "from_low_pct": 25.6,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "6269",
@@ -83,14 +83,14 @@
       "sector": "印刷電路",
       "industry": "電子零組件業",
       "price": 66.0999984741211,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 55,
       "trend_score": 15,
       "one_liner": "受益於 5G、AI 手機，位於供應鏈中游，FPC 柔性電路板技術領先。",
       "rsi": 56.0,
       "vol_ratio": 0.67,
       "from_low_pct": 43.7,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3504",
@@ -101,11 +101,11 @@
       "grade": "observe",
       "tech_score": 45,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 52.5,
       "vol_ratio": 0.51,
       "from_low_pct": 70.1,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3010",
@@ -120,7 +120,7 @@
       "rsi": 44.4,
       "vol_ratio": 1.08,
       "from_low_pct": 44.0,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     }
   ]
 }

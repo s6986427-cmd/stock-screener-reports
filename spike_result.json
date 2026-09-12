@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-11T20:07:10.120897+08:00",
+  "generated_at": "2026-09-12T19:33:12.237797+08:00",
   "total_scanned": 2228,
   "hits": [
     {
       "code": "2468",
       "price": 35.8,
       "daily_gain_pct": 10.0,
-      "vol_ratio": 16.31,
+      "vol_ratio": 16.23,
       "rsi": 59.9,
       "reasons": [
         "今日大漲 10.0%",
-        "爆量 16.3x"
+        "爆量 16.2x"
       ],
       "name": "華經",
       "market": "上市",
@@ -20,7 +20,7 @@
       "code": "4556",
       "price": 94.6,
       "daily_gain_pct": 10.0,
-      "vol_ratio": 8.45,
+      "vol_ratio": 8.37,
       "rsi": 70.9,
       "reasons": [
         "今日大漲 10.0%",
@@ -34,7 +34,7 @@
       "code": "6706",
       "price": 137.5,
       "daily_gain_pct": 10.0,
-      "vol_ratio": 4.13,
+      "vol_ratio": 4.07,
       "rsi": 75.0,
       "reasons": [
         "今日大漲 10.0%",
@@ -48,11 +48,11 @@
       "code": "3296",
       "price": 26.0,
       "daily_gain_pct": 9.9,
-      "vol_ratio": 21.05,
+      "vol_ratio": 20.74,
       "rsi": 66.0,
       "reasons": [
         "今日大漲 9.9%",
-        "爆量 21.0x"
+        "爆量 20.7x"
       ],
       "name": "勝德",
       "market": "上市",
@@ -62,7 +62,7 @@
       "code": "6909",
       "price": 43.9,
       "daily_gain_pct": 9.9,
-      "vol_ratio": 4.77,
+      "vol_ratio": 4.81,
       "rsi": 69.1,
       "reasons": [
         "今日大漲 9.9%",
@@ -76,7 +76,7 @@
       "code": "3229",
       "price": 67.5,
       "daily_gain_pct": 9.9,
-      "vol_ratio": 2.95,
+      "vol_ratio": 2.93,
       "rsi": 62.0,
       "reasons": [
         "今日大漲 9.9%",
@@ -90,11 +90,11 @@
       "code": "6227",
       "price": 127.5,
       "daily_gain_pct": 9.9,
-      "vol_ratio": 7.96,
+      "vol_ratio": 7.86,
       "rsi": 61.6,
       "reasons": [
         "今日大漲 9.9%",
-        "爆量 8.0x"
+        "爆量 7.9x"
       ],
       "name": "茂綸",
       "market": "上櫃",
@@ -104,11 +104,11 @@
       "code": "8227",
       "price": 239.0,
       "daily_gain_pct": 9.9,
-      "vol_ratio": 4.17,
+      "vol_ratio": 4.09,
       "rsi": 84.2,
       "reasons": [
         "今日大漲 9.9%",
-        "爆量 4.2x"
+        "爆量 4.1x"
       ],
       "name": "巨有科技",
       "market": "上櫃",
@@ -118,11 +118,11 @@
       "code": "6221",
       "price": 23.3,
       "daily_gain_pct": 9.9,
-      "vol_ratio": 4.27,
+      "vol_ratio": 4.21,
       "rsi": 76.5,
       "reasons": [
         "今日大漲 9.9%",
-        "爆量 4.3x"
+        "爆量 4.2x"
       ],
       "name": "晉泰",
       "market": "上櫃",
@@ -132,11 +132,11 @@
       "code": "6148",
       "price": 31.0,
       "daily_gain_pct": 9.9,
-      "vol_ratio": 14.88,
+      "vol_ratio": 14.79,
       "rsi": 82.1,
       "reasons": [
         "今日大漲 9.9%",
-        "爆量 14.9x"
+        "爆量 14.8x"
       ],
       "name": "驊宏資",
       "market": "上櫃",
@@ -146,11 +146,11 @@
       "code": "3311",
       "price": 35.0,
       "daily_gain_pct": 9.9,
-      "vol_ratio": 3.07,
+      "vol_ratio": 2.98,
       "rsi": 70.5,
       "reasons": [
         "今日大漲 9.9%",
-        "爆量 3.1x"
+        "爆量 3.0x"
       ],
       "name": "閎暉",
       "market": "上市",
@@ -160,7 +160,7 @@
       "code": "1528",
       "price": 21.2,
       "daily_gain_pct": 9.8,
-      "vol_ratio": 8.44,
+      "vol_ratio": 8.41,
       "rsi": 64.7,
       "reasons": [
         "今日大漲 9.8%",
@@ -174,7 +174,7 @@
       "code": "3624",
       "price": 124.5,
       "daily_gain_pct": 9.7,
-      "vol_ratio": 6.91,
+      "vol_ratio": 6.88,
       "rsi": 83.4,
       "reasons": [
         "今日大漲 9.7%",
@@ -188,7 +188,7 @@
       "code": "2444",
       "price": 12.2,
       "daily_gain_pct": 8.9,
-      "vol_ratio": 6.37,
+      "vol_ratio": 6.36,
       "rsi": 69.7,
       "reasons": [
         "今日大漲 8.9%",
@@ -202,11 +202,11 @@
       "code": "1560",
       "price": 790.0,
       "daily_gain_pct": 7.8,
-      "vol_ratio": 3.76,
+      "vol_ratio": 3.56,
       "rsi": 69.8,
       "reasons": [
         "今日大漲 7.8%",
-        "爆量 3.8x"
+        "爆量 3.6x"
       ],
       "name": "中砂",
       "market": "上市",
@@ -216,11 +216,11 @@
       "code": "3522",
       "price": 13.0,
       "daily_gain_pct": 7.4,
-      "vol_ratio": 11.51,
+      "vol_ratio": 11.38,
       "rsi": 79.5,
       "reasons": [
         "今日大漲 7.4%",
-        "爆量 11.5x"
+        "爆量 11.4x"
       ],
       "name": "御嵿",
       "market": "上櫃",
@@ -230,7 +230,7 @@
       "code": "2069",
       "price": 24.65,
       "daily_gain_pct": 7.2,
-      "vol_ratio": 4.05,
+      "vol_ratio": 4.03,
       "rsi": 74.7,
       "reasons": [
         "今日大漲 7.2%",
@@ -244,11 +244,11 @@
       "code": "6870",
       "price": 306.5,
       "daily_gain_pct": 7.0,
-      "vol_ratio": 3.04,
+      "vol_ratio": 2.91,
       "rsi": 71.3,
       "reasons": [
         "今日大漲 7.0%",
-        "爆量 3.0x"
+        "爆量 2.9x"
       ],
       "name": "騰雲",
       "market": "上櫃",
@@ -258,11 +258,11 @@
       "code": "6689",
       "price": 64.1,
       "daily_gain_pct": 6.7,
-      "vol_ratio": 8.19,
+      "vol_ratio": 8.06,
       "rsi": 59.3,
       "reasons": [
         "今日大漲 6.7%",
-        "爆量 8.2x"
+        "爆量 8.1x"
       ],
       "name": "伊雲谷",
       "market": "上市",
@@ -300,11 +300,11 @@
       "code": "6690",
       "price": 171.0,
       "daily_gain_pct": 6.5,
-      "vol_ratio": 18.8,
+      "vol_ratio": 18.21,
       "rsi": 65.9,
       "reasons": [
         "今日大漲 6.5%",
-        "爆量 18.8x"
+        "爆量 18.2x"
       ],
       "name": "安�硌穈T",
       "market": "上櫃",
@@ -314,7 +314,7 @@
       "code": "7717",
       "price": 517.0,
       "daily_gain_pct": 6.3,
-      "vol_ratio": 3.34,
+      "vol_ratio": 3.26,
       "rsi": 71.9,
       "reasons": [
         "今日大漲 6.3%",

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T20:02:00.205859+08:00",
+  "generated_at": "2026-09-12T19:29:32.589797+08:00",
   "total_scanned": 2228,
   "hits": [
     {
       "code": "2338",
       "price": 47.75,
       "rsi": 78.8,
-      "vol_ratio": 5.49,
+      "vol_ratio": 5.48,
       "from_low_pct": 44.0,
       "adx": 22.1,
       "reasons": [
@@ -26,7 +26,7 @@
       "code": "6872",
       "price": 24.85,
       "rsi": 79.7,
-      "vol_ratio": 4.26,
+      "vol_ratio": 4.25,
       "from_low_pct": 77.5,
       "adx": 36.6,
       "reasons": [
@@ -106,7 +106,7 @@
       "code": "4119",
       "price": 58.3,
       "rsi": 76.7,
-      "vol_ratio": 1.99,
+      "vol_ratio": 1.98,
       "from_low_pct": 46.8,
       "adx": 40.8,
       "reasons": [
@@ -126,7 +126,7 @@
       "code": "6870",
       "price": 306.5,
       "rsi": 71.3,
-      "vol_ratio": 1.62,
+      "vol_ratio": 1.59,
       "from_low_pct": 97.4,
       "adx": 29.1,
       "reasons": [
