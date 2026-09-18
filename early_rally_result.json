@@ -1,186 +1,286 @@
 {
-  "generated_at": "2026-09-17T20:27:50.794522+08:00",
+  "generated_at": "2026-09-18T20:08:13.941890+08:00",
   "total_scanned": 2230,
   "hits": [
     {
-      "code": "2468",
-      "price": 41.7,
-      "rsi": 72.8,
-      "vol_ratio": 5.82,
-      "from_low_pct": 36.7,
-      "adx_at_cross": 15.7,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 16，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 73（健康區）",
-        "距 52 週低點 37%（初期）",
-        "量增 5.8x"
-      ],
-      "name": "華經",
-      "market": "上市",
-      "industry": "資訊服務業"
-    },
-    {
       "code": "6140",
-      "price": 19.85,
-      "rsi": 66.9,
-      "vol_ratio": 4.54,
-      "from_low_pct": 27.7,
+      "price": 21.8,
+      "rsi": 74.0,
+      "vol_ratio": 4.74,
+      "from_low_pct": 40.2,
       "adx_at_cross": 13.5,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 14，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 67（健康區）",
-        "距 52 週低點 28%（初期）",
-        "量增 4.5x"
+        "RSI 74（健康區）",
+        "距 52 週低點 40%（初期）",
+        "量增 4.7x"
       ],
       "name": "訊達",
       "market": "上櫃",
       "industry": "資訊服務業"
     },
     {
-      "code": "6590",
-      "price": 65.5,
-      "rsi": 71.6,
-      "vol_ratio": 4.31,
-      "from_low_pct": 19.4,
-      "adx_at_cross": 12.9,
+      "code": "2348",
+      "price": 74.2,
+      "rsi": 69.1,
+      "vol_ratio": 2.92,
+      "from_low_pct": 24.0,
+      "adx_at_cross": 20.0,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 13，趨勢剛形成）",
+        "DMI 翻多（ADX 20，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 72（健康區）",
-        "距 52 週低點 19%（初期）",
-        "量增 4.3x"
+        "RSI 69（健康區）",
+        "距 52 週低點 24%（初期）",
+        "量增 2.9x"
       ],
-      "name": "普鴻",
-      "market": "上櫃",
-      "industry": "資訊服務業"
+      "name": "海悅",
+      "market": "上市",
+      "industry": "其他業"
     },
     {
-      "code": "2471",
-      "price": 52.3,
-      "rsi": 74.3,
-      "vol_ratio": 3.59,
-      "from_low_pct": 16.6,
-      "adx_at_cross": 13.3,
+      "code": "1259",
+      "price": 68.0,
+      "rsi": 67.4,
+      "vol_ratio": 2.78,
+      "from_low_pct": 23.3,
+      "adx_at_cross": 21.5,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 13，趨勢剛形成）",
+        "DMI 翻多（ADX 22，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 74（健康區）",
-        "距 52 週低點 17%（初期）",
-        "量增 3.6x"
+        "RSI 67（健康區）",
+        "距 52 週低點 23%（初期）",
+        "量增 2.8x"
       ],
-      "name": "資通",
+      "name": "安心",
+      "market": "上櫃",
+      "industry": "觀光餐旅"
+    },
+    {
+      "code": "2427",
+      "price": 23.8,
+      "rsi": 63.3,
+      "vol_ratio": 2.33,
+      "from_low_pct": 21.2,
+      "adx_at_cross": 8.0,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 8，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 63（健康區）",
+        "距 52 週低點 21%（初期）",
+        "量增 2.3x"
+      ],
+      "name": "三商電",
       "market": "上市",
       "industry": "資訊服務業"
     },
     {
-      "code": "6811",
-      "price": 249.5,
-      "rsi": 70.7,
-      "vol_ratio": 3.26,
-      "from_low_pct": 43.4,
-      "adx_at_cross": 10.2,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 10，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 71（健康區）",
-        "距 52 週低點 43%（初期）",
-        "量增 3.3x"
-      ],
-      "name": "宏�硌穈T",
-      "market": "上櫃",
-      "industry": "數位雲端"
-    },
-    {
       "code": "3570",
-      "price": 169.5,
-      "rsi": 69.2,
-      "vol_ratio": 1.81,
-      "from_low_pct": 11.4,
+      "price": 170.5,
+      "rsi": 71.4,
+      "vol_ratio": 2.22,
+      "from_low_pct": 12.1,
       "adx_at_cross": 12.6,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 13，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 69（健康區）",
-        "距 52 週低點 11%（初期）",
-        "量增 1.8x"
+        "RSI 71（健康區）",
+        "距 52 週低點 12%（初期）",
+        "量增 2.2x"
       ],
       "name": "大塚",
       "market": "上櫃",
       "industry": "資訊服務業"
     },
     {
+      "code": "7765",
+      "price": 243.0,
+      "rsi": 65.1,
+      "vol_ratio": 2.08,
+      "from_low_pct": 15.4,
+      "adx_at_cross": 21.7,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 22，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 65（健康區）",
+        "距 52 週低點 15%（初期）",
+        "量增 2.1x"
+      ],
+      "name": "中華資安",
+      "market": "上市",
+      "industry": "數位雲端"
+    },
+    {
+      "code": "5212",
+      "price": 48.6,
+      "rsi": 67.0,
+      "vol_ratio": 2.04,
+      "from_low_pct": 12.0,
+      "adx_at_cross": 9.0,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 9，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 67（健康區）",
+        "距 52 週低點 12%（初期）",
+        "量增 2.0x"
+      ],
+      "name": "凌網",
+      "market": "上櫃",
+      "industry": "資訊服務業"
+    },
+    {
+      "code": "6690",
+      "price": 186.5,
+      "rsi": 70.4,
+      "vol_ratio": 2.03,
+      "from_low_pct": 23.7,
+      "adx_at_cross": 10.6,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 11，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 70（健康區）",
+        "距 52 週低點 24%（初期）",
+        "量增 2.0x"
+      ],
+      "name": "安�硌穈T",
+      "market": "上櫃",
+      "industry": "數位雲端"
+    },
+    {
+      "code": "2471",
+      "price": 53.1,
+      "rsi": 75.0,
+      "vol_ratio": 1.89,
+      "from_low_pct": 18.4,
+      "adx_at_cross": 13.3,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 13，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 75（健康區）",
+        "距 52 週低點 18%（初期）",
+        "量增 1.9x"
+      ],
+      "name": "資通",
+      "market": "上市",
+      "industry": "資訊服務業"
+    },
+    {
       "code": "2480",
-      "price": 161.5,
-      "rsi": 64.5,
-      "vol_ratio": 1.71,
-      "from_low_pct": 23.6,
+      "price": 165.0,
+      "rsi": 71.1,
+      "vol_ratio": 1.85,
+      "from_low_pct": 26.3,
       "adx_at_cross": 9.4,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 9，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 65（健康區）",
-        "距 52 週低點 24%（初期）",
-        "量增 1.7x"
+        "RSI 71（健康區）",
+        "距 52 週低點 26%（初期）",
+        "量增 1.8x"
       ],
       "name": "敦陽科",
       "market": "上市",
       "industry": "資訊服務業"
     },
     {
-      "code": "1442",
-      "price": 30.9,
-      "rsi": 64.8,
-      "vol_ratio": 1.7,
-      "from_low_pct": 20.9,
-      "adx_at_cross": 18.4,
+      "code": "8906",
+      "price": 29.5,
+      "rsi": 69.1,
+      "vol_ratio": 1.79,
+      "from_low_pct": 25.5,
+      "adx_at_cross": 13.1,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 18，趨勢剛形成）",
+        "DMI 翻多（ADX 13，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 65（健康區）",
-        "距 52 週低點 21%（初期）",
-        "量增 1.7x"
+        "RSI 69（健康區）",
+        "距 52 週低點 26%（初期）",
+        "量增 1.8x"
       ],
-      "name": "名軒",
-      "market": "上市",
-      "industry": "建材營造業"
+      "name": "花王",
+      "market": "上櫃",
+      "industry": "其他業"
     },
     {
       "code": "5481",
-      "price": 21.85,
-      "rsi": 70.6,
-      "vol_ratio": 1.54,
-      "from_low_pct": 34.0,
+      "price": 22.15,
+      "rsi": 73.7,
+      "vol_ratio": 1.55,
+      "from_low_pct": 35.9,
       "adx_at_cross": 8.9,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 9，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 71（健康區）",
-        "距 52 週低點 34%（初期）",
+        "RSI 74（健康區）",
+        "距 52 週低點 36%（初期）",
         "量增 1.5x"
       ],
       "name": "新華",
       "market": "上櫃",
       "industry": "其他業"
+    },
+    {
+      "code": "2382",
+      "price": 343.0,
+      "rsi": 52.8,
+      "vol_ratio": 1.29,
+      "from_low_pct": 37.6,
+      "adx_at_cross": 9.3,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 9，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 53（健康區）",
+        "距 52 週低點 38%（初期）",
+        "量增 1.3x"
+      ],
+      "name": "廣達",
+      "market": "上市",
+      "industry": "電腦及週邊設備業"
+    },
+    {
+      "code": "2353",
+      "price": 31.95,
+      "rsi": 52.5,
+      "vol_ratio": 1.28,
+      "from_low_pct": 31.7,
+      "adx_at_cross": 11.0,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 11，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 53（健康區）",
+        "距 52 週低點 32%（初期）",
+        "量增 1.3x"
+      ],
+      "name": "宏��",
+      "market": "上市",
+      "industry": "電腦及週邊設備業"
     }
   ]
 }
