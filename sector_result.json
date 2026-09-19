@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T20:04:23.607991+08:00",
-  "total_scanned": 58,
+  "generated_at": "2026-09-19T19:44:04.046771+08:00",
+  "total_scanned": 79,
   "hits": [
     {
       "code": "2340",
@@ -8,14 +8,14 @@
       "sector": "光電設備",
       "industry": "半導體業",
       "price": 34.0,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 75,
       "trend_score": 0,
       "one_liner": "受益於 車用光電、工業光電，位於供應鏈上游，化合物半導體（GaAs/InP）磊晶。",
       "rsi": 52.2,
-      "vol_ratio": 0.95,
+      "vol_ratio": 0.94,
       "from_low_pct": 48.5,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "2382",
@@ -23,29 +23,14 @@
       "sector": "連接元件",
       "industry": "電腦及週邊設備業",
       "price": 343.0,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 75,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 52.8,
-      "vol_ratio": 1.0,
+      "vol_ratio": 0.99,
       "from_low_pct": 37.6,
-      "inst_signal": "買超"
-    },
-    {
-      "code": "5243",
-      "name": "乙盛-KY",
-      "sector": "利基型記憶體",
-      "industry": "光電業",
-      "price": 90.30000305175781,
-      "grade": "watch",
-      "tech_score": 75,
-      "trend_score": 0,
-      "one_liner": "三大法人買超。",
-      "rsi": 54.3,
-      "vol_ratio": 0.65,
-      "from_low_pct": 35.1,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "4736",
@@ -53,14 +38,29 @@
       "sector": "網通設備",
       "industry": "生技醫療業",
       "price": 133.0,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 75,
       "trend_score": 0,
       "one_liner": "受益於 AI 儲存、NAS，位於供應鏈中游，企業級 NAS 儲存解決方案。",
       "rsi": 69.0,
       "vol_ratio": 0.62,
       "from_low_pct": 31.0,
-      "inst_signal": "買超"
+      "inst_signal": "—"
+    },
+    {
+      "code": "5243",
+      "name": "乙盛-KY",
+      "sector": "利基型記憶體",
+      "industry": "光電業",
+      "price": 90.30000305175781,
+      "grade": "observe",
+      "tech_score": 75,
+      "trend_score": 0,
+      "one_liner": "—",
+      "rsi": 54.3,
+      "vol_ratio": 0.65,
+      "from_low_pct": 35.1,
+      "inst_signal": "—"
     },
     {
       "code": "3036",
@@ -68,29 +68,14 @@
       "sector": "利基型記憶體",
       "industry": "電子通路業",
       "price": 205.5,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 70,
       "trend_score": 0,
       "one_liner": "受益於 AI 半導體通路、記憶體通路，位於供應鏈下游，台灣最大半導體通路商。",
       "rsi": 62.0,
-      "vol_ratio": 1.17,
+      "vol_ratio": 1.16,
       "from_low_pct": 62.0,
-      "inst_signal": "買超"
-    },
-    {
-      "code": "2438",
-      "name": "翔耀",
-      "sector": "被動元件",
-      "industry": "光電業",
-      "price": 20.899999618530273,
-      "grade": "watch",
-      "tech_score": 65,
-      "trend_score": 0,
-      "one_liner": "受益於 AI 伺服器、電動車，位於供應鏈中游，電感產品線完整。",
-      "rsi": 62.7,
-      "vol_ratio": 0.55,
-      "from_low_pct": 27.1,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "2393",
@@ -98,29 +83,44 @@
       "sector": "光電設備",
       "industry": "光電業",
       "price": 64.4000015258789,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 65,
       "trend_score": 0,
       "one_liner": "受益於 Mini LED、車用照明，位於供應鏈中游，LED 封裝規模龐大。",
       "rsi": 41.7,
       "vol_ratio": 1.03,
       "from_low_pct": 37.9,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
-      "code": "2328",
-      "name": "廣宇",
+      "code": "5443",
+      "name": "均豪",
+      "sector": "網通設備",
+      "industry": "半導體業",
+      "price": 109.0,
+      "grade": "observe",
+      "tech_score": 65,
+      "trend_score": 0,
+      "one_liner": "—",
+      "rsi": 44.9,
+      "vol_ratio": 0.56,
+      "from_low_pct": 42.2,
+      "inst_signal": "—"
+    },
+    {
+      "code": "2438",
+      "name": "翔耀",
       "sector": "被動元件",
-      "industry": "電子零組件業",
-      "price": 46.400001525878906,
-      "grade": "watch",
-      "tech_score": 35,
-      "trend_score": 25,
-      "one_liner": "受益於 被動元件升級，位於供應鏈中游，精密電阻製造。",
-      "rsi": 47.4,
-      "vol_ratio": 0.87,
-      "from_low_pct": 19.6,
-      "inst_signal": "買超"
+      "industry": "光電業",
+      "price": 20.899999618530273,
+      "grade": "observe",
+      "tech_score": 65,
+      "trend_score": 0,
+      "one_liner": "受益於 AI 伺服器、電動車，位於供應鏈中游，電感產品線完整。",
+      "rsi": 62.7,
+      "vol_ratio": 0.55,
+      "from_low_pct": 27.1,
+      "inst_signal": "—"
     },
     {
       "code": "4938",
@@ -131,11 +131,11 @@
       "grade": "observe",
       "tech_score": 45,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 47.6,
       "vol_ratio": 0.84,
       "from_low_pct": 38.2,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3010",
@@ -150,7 +150,22 @@
       "rsi": 41.2,
       "vol_ratio": 0.73,
       "from_low_pct": 44.6,
-      "inst_signal": "買超"
+      "inst_signal": "—"
+    },
+    {
+      "code": "2328",
+      "name": "廣宇",
+      "sector": "被動元件",
+      "industry": "電子零組件業",
+      "price": 46.400001525878906,
+      "grade": "observe",
+      "tech_score": 35,
+      "trend_score": 25,
+      "one_liner": "受益於 被動元件升級，位於供應鏈中游，精密電阻製造。",
+      "rsi": 47.4,
+      "vol_ratio": 0.87,
+      "from_low_pct": 19.6,
+      "inst_signal": "—"
     },
     {
       "code": "3504",
@@ -161,11 +176,11 @@
       "grade": "observe",
       "tech_score": 35,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 38.9,
       "vol_ratio": 0.33,
       "from_low_pct": 69.7,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     }
   ]
 }

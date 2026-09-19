@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T20:08:15.598854+08:00",
-  "total_scanned": 2230,
+  "generated_at": "2026-09-19T19:48:41.427702+08:00",
+  "total_scanned": 2229,
   "hits": [
     {
       "code": "2468",
@@ -26,7 +26,7 @@
       "code": "6140",
       "price": 21.8,
       "rsi": 74.0,
-      "vol_ratio": 4.74,
+      "vol_ratio": 4.73,
       "from_low_pct": 40.2,
       "adx": 24.8,
       "reasons": [
@@ -46,7 +46,7 @@
       "code": "8215",
       "price": 27.35,
       "rsi": 62.1,
-      "vol_ratio": 3.74,
+      "vol_ratio": 3.73,
       "from_low_pct": 50.5,
       "adx": 22.6,
       "reasons": [
@@ -103,26 +103,6 @@
       "industry": "其他電子業"
     },
     {
-      "code": "2640",
-      "price": 170.5,
-      "rsi": 72.9,
-      "vol_ratio": 3.0,
-      "from_low_pct": 46.5,
-      "adx": 25.9,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 仍在多方（DIF > 訊號線）",
-        "DMI 多方確立（ADX 26，趨勢已站穩）",
-        "KD 仍在多方（K > D）",
-        "RSI 73",
-        "距 52 週低點 46%（已起漲一段）",
-        "量能 3.0x（未明顯萎縮）"
-      ],
-      "name": "大車隊",
-      "market": "上櫃",
-      "industry": "數位雲端"
-    },
-    {
       "code": "6742",
       "price": 54.7,
       "rsi": 76.9,
@@ -141,6 +121,26 @@
       "name": "澤米",
       "market": "上市",
       "industry": "光電業"
+    },
+    {
+      "code": "2640",
+      "price": 170.5,
+      "rsi": 72.9,
+      "vol_ratio": 2.98,
+      "from_low_pct": 46.5,
+      "adx": 25.9,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 仍在多方（DIF > 訊號線）",
+        "DMI 多方確立（ADX 26，趨勢已站穩）",
+        "KD 仍在多方（K > D）",
+        "RSI 73",
+        "距 52 週低點 46%（已起漲一段）",
+        "量能 3.0x（未明顯萎縮）"
+      ],
+      "name": "大車隊",
+      "market": "上櫃",
+      "industry": "數位雲端"
     },
     {
       "code": "3021",
@@ -166,7 +166,7 @@
       "code": "3296",
       "price": 28.3,
       "rsi": 72.2,
-      "vol_ratio": 2.6,
+      "vol_ratio": 2.58,
       "from_low_pct": 48.6,
       "adx": 21.6,
       "reasons": [
@@ -206,7 +206,7 @@
       "code": "6811",
       "price": 266.5,
       "rsi": 79.5,
-      "vol_ratio": 2.44,
+      "vol_ratio": 2.41,
       "from_low_pct": 53.2,
       "adx": 24.4,
       "reasons": [
@@ -226,7 +226,7 @@
       "code": "3226",
       "price": 56.9,
       "rsi": 75.6,
-      "vol_ratio": 2.28,
+      "vol_ratio": 2.27,
       "from_low_pct": 44.1,
       "adx": 22.2,
       "reasons": [
@@ -246,7 +246,7 @@
       "code": "2006",
       "price": 87.6,
       "rsi": 72.1,
-      "vol_ratio": 2.19,
+      "vol_ratio": 2.18,
       "from_low_pct": 56.7,
       "adx": 22.2,
       "reasons": [
@@ -261,26 +261,6 @@
       "name": "東和鋼鐵",
       "market": "上市",
       "industry": "鋼鐵工業"
-    },
-    {
-      "code": "4923",
-      "price": 60.8,
-      "rsi": 59.6,
-      "vol_ratio": 1.74,
-      "from_low_pct": 119.5,
-      "adx": 23.5,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 仍在多方（DIF > 訊號線）",
-        "DMI 多方確立（ADX 23，趨勢已站穩）",
-        "KD 仍在多方（K > D）",
-        "RSI 60",
-        "距 52 週低點 119%（已起漲一段）",
-        "量能 1.7x（未明顯萎縮）"
-      ],
-      "name": "力士",
-      "market": "上櫃",
-      "industry": "半導體業"
     },
     {
       "code": "6668",
@@ -301,6 +281,26 @@
       "name": "中揚光",
       "market": "上市",
       "industry": "光電業"
+    },
+    {
+      "code": "4923",
+      "price": 60.8,
+      "rsi": 59.6,
+      "vol_ratio": 1.73,
+      "from_low_pct": 119.5,
+      "adx": 23.5,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 仍在多方（DIF > 訊號線）",
+        "DMI 多方確立（ADX 23，趨勢已站穩）",
+        "KD 仍在多方（K > D）",
+        "RSI 60",
+        "距 52 週低點 119%（已起漲一段）",
+        "量能 1.7x（未明顯萎縮）"
+      ],
+      "name": "力士",
+      "market": "上櫃",
+      "industry": "半導體業"
     },
     {
       "code": "6179",
@@ -326,7 +326,7 @@
       "code": "6840",
       "price": 108.0,
       "rsi": 69.2,
-      "vol_ratio": 1.61,
+      "vol_ratio": 1.6,
       "from_low_pct": 99.8,
       "adx": 39.2,
       "reasons": [
@@ -346,7 +346,7 @@
       "code": "3346",
       "price": 22.3,
       "rsi": 69.0,
-      "vol_ratio": 1.43,
+      "vol_ratio": 1.42,
       "from_low_pct": 46.6,
       "adx": 21.6,
       "reasons": [
@@ -466,7 +466,7 @@
       "code": "3034",
       "price": 558.0,
       "rsi": 57.4,
-      "vol_ratio": 0.97,
+      "vol_ratio": 0.96,
       "from_low_pct": 61.4,
       "adx": 28.3,
       "reasons": [

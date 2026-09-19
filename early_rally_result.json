@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T20:08:13.941890+08:00",
-  "total_scanned": 2230,
+  "generated_at": "2026-09-19T19:48:39.773598+08:00",
+  "total_scanned": 2229,
   "hits": [
     {
       "code": "6140",
       "price": 21.8,
       "rsi": 74.0,
-      "vol_ratio": 4.74,
+      "vol_ratio": 4.73,
       "from_low_pct": 40.2,
       "adx_at_cross": 13.5,
       "reasons": [
@@ -26,7 +26,7 @@
       "code": "2348",
       "price": 74.2,
       "rsi": 69.1,
-      "vol_ratio": 2.92,
+      "vol_ratio": 2.9,
       "from_low_pct": 24.0,
       "adx_at_cross": 20.0,
       "reasons": [
@@ -86,7 +86,7 @@
       "code": "3570",
       "price": 170.5,
       "rsi": 71.4,
-      "vol_ratio": 2.22,
+      "vol_ratio": 2.2,
       "from_low_pct": 12.1,
       "adx_at_cross": 12.6,
       "reasons": [
@@ -126,7 +126,7 @@
       "code": "5212",
       "price": 48.6,
       "rsi": 67.0,
-      "vol_ratio": 2.04,
+      "vol_ratio": 2.02,
       "from_low_pct": 12.0,
       "adx_at_cross": 9.0,
       "reasons": [
@@ -146,7 +146,7 @@
       "code": "6690",
       "price": 186.5,
       "rsi": 70.4,
-      "vol_ratio": 2.03,
+      "vol_ratio": 2.02,
       "from_low_pct": 23.7,
       "adx_at_cross": 10.6,
       "reasons": [
@@ -166,7 +166,7 @@
       "code": "2471",
       "price": 53.1,
       "rsi": 75.0,
-      "vol_ratio": 1.89,
+      "vol_ratio": 1.88,
       "from_low_pct": 18.4,
       "adx_at_cross": 13.3,
       "reasons": [
@@ -186,7 +186,7 @@
       "code": "2480",
       "price": 165.0,
       "rsi": 71.1,
-      "vol_ratio": 1.85,
+      "vol_ratio": 1.83,
       "from_low_pct": 26.3,
       "adx_at_cross": 9.4,
       "reasons": [
@@ -246,7 +246,7 @@
       "code": "2382",
       "price": 343.0,
       "rsi": 52.8,
-      "vol_ratio": 1.29,
+      "vol_ratio": 1.28,
       "from_low_pct": 37.6,
       "adx_at_cross": 9.3,
       "reasons": [
