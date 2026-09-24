@@ -1,66 +1,86 @@
 {
-  "generated_at": "2026-09-23T20:32:58.306028+08:00",
-  "total_scanned": 2233,
+  "generated_at": "2026-09-24T20:32:26.989635+08:00",
+  "total_scanned": 2231,
   "hits": [
     {
-      "code": "3047",
-      "price": 14.7,
-      "rsi": 67.1,
-      "vol_ratio": 3.77,
-      "from_low_pct": 11.4,
-      "adx_at_cross": 23.0,
+      "code": "2032",
+      "price": 18.55,
+      "rsi": 67.6,
+      "vol_ratio": 3.73,
+      "from_low_pct": 40.5,
+      "adx_at_cross": 15.4,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 23，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 67（健康區）",
-        "距 52 週低點 11%（初期）",
-        "量增 3.8x"
-      ],
-      "name": "訊舟",
-      "market": "上市",
-      "industry": "通信網路業"
-    },
-    {
-      "code": "6684",
-      "price": 49.2,
-      "rsi": 68.3,
-      "vol_ratio": 1.94,
-      "from_low_pct": 20.7,
-      "adx_at_cross": 8.6,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 9，趨勢剛形成）",
+        "DMI 翻多（ADX 15，趨勢剛形成）",
         "KD 中低檔黃金交叉",
         "RSI 68（健康區）",
-        "距 52 週低點 21%（初期）",
-        "量增 1.9x"
+        "距 52 週低點 41%（初期）",
+        "量增 3.7x"
       ],
-      "name": "安格",
+      "name": "新鋼",
+      "market": "上市",
+      "industry": "鋼鐵工業"
+    },
+    {
+      "code": "8201",
+      "price": 13.3,
+      "rsi": 71.4,
+      "vol_ratio": 3.43,
+      "from_low_pct": 15.7,
+      "adx_at_cross": 14.0,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 14，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 71（健康區）",
+        "距 52 週低點 16%（初期）",
+        "量增 3.4x"
+      ],
+      "name": "無敵",
+      "market": "上市",
+      "industry": "其他電子業"
+    },
+    {
+      "code": "6708",
+      "price": 42.8,
+      "rsi": 70.1,
+      "vol_ratio": 3.01,
+      "from_low_pct": 17.1,
+      "adx_at_cross": 14.4,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 14，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 70（健康區）",
+        "距 52 週低點 17%（初期）",
+        "量增 3.0x"
+      ],
+      "name": "天擎",
       "market": "上櫃",
       "industry": "半導體業"
     },
     {
-      "code": "6589",
-      "price": 53.9,
-      "rsi": 70.0,
-      "vol_ratio": 1.18,
-      "from_low_pct": 32.9,
-      "adx_at_cross": 15.8,
+      "code": "6189",
+      "price": 49.2,
+      "rsi": 58.7,
+      "vol_ratio": 1.44,
+      "from_low_pct": 21.9,
+      "adx_at_cross": 10.6,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 16，趨勢剛形成）",
+        "DMI 翻多（ADX 11，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 70（健康區）",
-        "距 52 週低點 33%（初期）",
-        "量增 1.2x"
+        "RSI 59（健康區）",
+        "距 52 週低點 22%（初期）",
+        "量增 1.4x"
       ],
-      "name": "台康生技",
+      "name": "豐藝",
       "market": "上市",
-      "industry": "生技醫療業"
+      "industry": "電子通路業"
     }
   ]
 }
