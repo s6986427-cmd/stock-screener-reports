@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T20:32:27.919119+08:00",
-  "total_scanned": 2231,
+  "generated_at": "2026-09-25T20:31:54.009116+08:00",
+  "total_scanned": 2229,
   "hits": [
     {
       "code": "2342",
@@ -46,7 +46,7 @@
       "code": "9960",
       "price": 39.35,
       "rsi": 78.9,
-      "vol_ratio": 3.44,
+      "vol_ratio": 3.43,
       "from_low_pct": 99.0,
       "adx": 24.5,
       "reasons": [
@@ -66,7 +66,7 @@
       "code": "8040",
       "price": 94.5,
       "rsi": 79.5,
-      "vol_ratio": 2.88,
+      "vol_ratio": 2.87,
       "from_low_pct": 109.1,
       "adx": 22.2,
       "reasons": [
@@ -106,7 +106,7 @@
       "code": "4770",
       "price": 281.5,
       "rsi": 69.8,
-      "vol_ratio": 2.53,
+      "vol_ratio": 2.52,
       "from_low_pct": 40.5,
       "adx": 31.8,
       "reasons": [
@@ -206,7 +206,7 @@
       "code": "2404",
       "price": 1285.0,
       "rsi": 77.2,
-      "vol_ratio": 1.94,
+      "vol_ratio": 1.92,
       "from_low_pct": 77.8,
       "adx": 22.3,
       "reasons": [
@@ -226,7 +226,7 @@
       "code": "7712",
       "price": 163.0,
       "rsi": 59.1,
-      "vol_ratio": 1.53,
+      "vol_ratio": 1.52,
       "from_low_pct": 107.5,
       "adx": 21.5,
       "reasons": [
@@ -266,7 +266,7 @@
       "code": "3580",
       "price": 102.0,
       "rsi": 71.9,
-      "vol_ratio": 1.48,
+      "vol_ratio": 1.47,
       "from_low_pct": 90.0,
       "adx": 36.9,
       "reasons": [
@@ -306,7 +306,7 @@
       "code": "2379",
       "price": 749.0,
       "rsi": 69.3,
-      "vol_ratio": 1.35,
+      "vol_ratio": 1.34,
       "from_low_pct": 74.3,
       "adx": 24.4,
       "reasons": [
@@ -316,7 +316,7 @@
         "KD 仍在多方（K > D）",
         "RSI 69",
         "距 52 週低點 74%（已起漲一段）",
-        "量能 1.4x（未明顯萎縮）"
+        "量能 1.3x（未明顯萎縮）"
       ],
       "name": "瑞昱",
       "market": "上市",
@@ -366,7 +366,7 @@
       "code": "3044",
       "price": 538.0,
       "rsi": 68.7,
-      "vol_ratio": 0.98,
+      "vol_ratio": 0.97,
       "from_low_pct": 90.6,
       "adx": 31.3,
       "reasons": [
@@ -386,7 +386,7 @@
       "code": "2006",
       "price": 87.8,
       "rsi": 67.8,
-      "vol_ratio": 0.97,
+      "vol_ratio": 0.96,
       "from_low_pct": 57.1,
       "adx": 29.9,
       "reasons": [

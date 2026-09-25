@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T20:32:26.989635+08:00",
-  "total_scanned": 2231,
+  "generated_at": "2026-09-25T20:31:52.841711+08:00",
+  "total_scanned": 2229,
   "hits": [
     {
       "code": "2032",
@@ -26,7 +26,7 @@
       "code": "8201",
       "price": 13.3,
       "rsi": 71.4,
-      "vol_ratio": 3.43,
+      "vol_ratio": 3.42,
       "from_low_pct": 15.7,
       "adx_at_cross": 14.0,
       "reasons": [
@@ -46,7 +46,7 @@
       "code": "6708",
       "price": 42.8,
       "rsi": 70.1,
-      "vol_ratio": 3.01,
+      "vol_ratio": 2.99,
       "from_low_pct": 17.1,
       "adx_at_cross": 14.4,
       "reasons": [
@@ -66,7 +66,7 @@
       "code": "6189",
       "price": 49.2,
       "rsi": 58.7,
-      "vol_ratio": 1.44,
+      "vol_ratio": 1.43,
       "from_low_pct": 21.9,
       "adx_at_cross": 10.6,
       "reasons": [
