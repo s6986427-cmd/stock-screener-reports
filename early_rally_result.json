@@ -1,86 +1,126 @@
 {
-  "generated_at": "2026-09-28T22:50:26.360541+08:00",
-  "total_scanned": 2229,
+  "generated_at": "2026-09-29T21:42:35.017608+08:00",
+  "total_scanned": 2231,
   "hits": [
     {
-      "code": "2032",
-      "price": 18.55,
-      "rsi": 67.6,
-      "vol_ratio": 3.73,
-      "from_low_pct": 40.5,
-      "adx_at_cross": 15.4,
+      "code": "4566",
+      "price": 73.2,
+      "rsi": 74.0,
+      "vol_ratio": 3.66,
+      "from_low_pct": 43.8,
+      "adx_at_cross": 11.4,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 15，趨勢剛形成）",
+        "DMI 翻多（ADX 11，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 68（健康區）",
-        "距 52 週低點 41%（初期）",
+        "RSI 74（健康區）",
+        "距 52 週低點 44%（初期）",
         "量增 3.7x"
       ],
-      "name": "新鋼",
+      "name": "時碩工業",
       "market": "上市",
-      "industry": "鋼鐵工業"
+      "industry": "電機機械"
     },
     {
-      "code": "8201",
-      "price": 13.3,
-      "rsi": 71.4,
-      "vol_ratio": 3.42,
-      "from_low_pct": 15.7,
-      "adx_at_cross": 14.0,
+      "code": "4419",
+      "price": 49.0,
+      "rsi": 58.4,
+      "vol_ratio": 2.45,
+      "from_low_pct": 18.6,
+      "adx_at_cross": 16.4,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 14，趨勢剛形成）",
+        "DMI 翻多（ADX 16，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 71（健康區）",
-        "距 52 週低點 16%（初期）",
-        "量增 3.4x"
+        "RSI 58（健康區）",
+        "距 52 週低點 19%（初期）",
+        "量增 2.5x"
       ],
-      "name": "無敵",
-      "market": "上市",
-      "industry": "其他電子業"
-    },
-    {
-      "code": "6708",
-      "price": 42.8,
-      "rsi": 70.1,
-      "vol_ratio": 2.99,
-      "from_low_pct": 17.1,
-      "adx_at_cross": 14.4,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 14，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 70（健康區）",
-        "距 52 週低點 17%（初期）",
-        "量增 3.0x"
-      ],
-      "name": "天擎",
+      "name": "皇家美食",
       "market": "上櫃",
+      "industry": "觀光餐旅"
+    },
+    {
+      "code": "6799",
+      "price": 90.3,
+      "rsi": 74.2,
+      "vol_ratio": 2.27,
+      "from_low_pct": 30.2,
+      "adx_at_cross": 7.8,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 8，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 74（健康區）",
+        "距 52 週低點 30%（初期）",
+        "量增 2.3x"
+      ],
+      "name": "來頡",
+      "market": "上市",
       "industry": "半導體業"
     },
     {
       "code": "6189",
-      "price": 49.2,
-      "rsi": 58.7,
-      "vol_ratio": 1.43,
-      "from_low_pct": 21.9,
+      "price": 50.2,
+      "rsi": 70.5,
+      "vol_ratio": 1.91,
+      "from_low_pct": 24.4,
       "adx_at_cross": 10.6,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 11，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 59（健康區）",
-        "距 52 週低點 22%（初期）",
-        "量增 1.4x"
+        "RSI 71（健康區）",
+        "距 52 週低點 24%（初期）",
+        "量增 1.9x"
       ],
       "name": "豐藝",
       "market": "上市",
       "industry": "電子通路業"
+    },
+    {
+      "code": "6695",
+      "price": 54.1,
+      "rsi": 68.7,
+      "vol_ratio": 1.39,
+      "from_low_pct": 43.1,
+      "adx_at_cross": 10.3,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 10，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 69（健康區）",
+        "距 52 週低點 43%（初期）",
+        "量增 1.4x"
+      ],
+      "name": "芯鼎",
+      "market": "上市",
+      "industry": "半導體業"
+    },
+    {
+      "code": "6684",
+      "price": 50.9,
+      "rsi": 72.6,
+      "vol_ratio": 1.15,
+      "from_low_pct": 24.9,
+      "adx_at_cross": 8.6,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 9，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 73（健康區）",
+        "距 52 週低點 25%（初期）",
+        "量增 1.2x"
+      ],
+      "name": "安格",
+      "market": "上櫃",
+      "industry": "半導體業"
     }
   ]
 }
