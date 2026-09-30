@@ -1,126 +1,106 @@
 {
-  "generated_at": "2026-09-29T21:42:35.017608+08:00",
-  "total_scanned": 2231,
+  "generated_at": "2026-09-30T21:19:42.930204+08:00",
+  "total_scanned": 2229,
   "hits": [
     {
-      "code": "4566",
-      "price": 73.2,
-      "rsi": 74.0,
-      "vol_ratio": 3.66,
-      "from_low_pct": 43.8,
-      "adx_at_cross": 11.4,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 11，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 74（健康區）",
-        "距 52 週低點 44%（初期）",
-        "量增 3.7x"
-      ],
-      "name": "時碩工業",
-      "market": "上市",
-      "industry": "電機機械"
-    },
-    {
       "code": "4419",
-      "price": 49.0,
-      "rsi": 58.4,
-      "vol_ratio": 2.45,
-      "from_low_pct": 18.6,
+      "price": 50.2,
+      "rsi": 68.7,
+      "vol_ratio": 4.83,
+      "from_low_pct": 21.5,
       "adx_at_cross": 16.4,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 16，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 58（健康區）",
-        "距 52 週低點 19%（初期）",
-        "量增 2.5x"
+        "RSI 69（健康區）",
+        "距 52 週低點 22%（初期）",
+        "量增 4.8x"
       ],
       "name": "皇家美食",
       "market": "上櫃",
       "industry": "觀光餐旅"
     },
     {
-      "code": "6799",
-      "price": 90.3,
-      "rsi": 74.2,
-      "vol_ratio": 2.27,
-      "from_low_pct": 30.2,
-      "adx_at_cross": 7.8,
+      "code": "2031",
+      "price": 46.5,
+      "rsi": 62.0,
+      "vol_ratio": 2.0,
+      "from_low_pct": 37.0,
+      "adx_at_cross": 19.7,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 8，趨勢剛形成）",
+        "DMI 翻多（ADX 20，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 74（健康區）",
-        "距 52 週低點 30%（初期）",
-        "量增 2.3x"
+        "RSI 62（健康區）",
+        "距 52 週低點 37%（初期）",
+        "量增 2.0x"
       ],
-      "name": "來頡",
+      "name": "新光鋼",
       "market": "上市",
-      "industry": "半導體業"
+      "industry": "鋼鐵工業"
     },
     {
-      "code": "6189",
-      "price": 50.2,
-      "rsi": 70.5,
-      "vol_ratio": 1.91,
-      "from_low_pct": 24.4,
-      "adx_at_cross": 10.6,
+      "code": "6171",
+      "price": 26.75,
+      "rsi": 57.1,
+      "vol_ratio": 1.66,
+      "from_low_pct": 17.3,
+      "adx_at_cross": 19.6,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 11，趨勢剛形成）",
+        "DMI 翻多（ADX 20，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 71（健康區）",
-        "距 52 週低點 24%（初期）",
-        "量增 1.9x"
+        "RSI 57（健康區）",
+        "距 52 週低點 17%（初期）",
+        "量增 1.7x"
       ],
-      "name": "豐藝",
-      "market": "上市",
-      "industry": "電子通路業"
+      "name": "大城地產",
+      "market": "上櫃",
+      "industry": "建材營造業"
     },
     {
-      "code": "6695",
-      "price": 54.1,
-      "rsi": 68.7,
-      "vol_ratio": 1.39,
-      "from_low_pct": 43.1,
-      "adx_at_cross": 10.3,
+      "code": "2498",
+      "price": 42.9,
+      "rsi": 70.1,
+      "vol_ratio": 1.55,
+      "from_low_pct": 13.3,
+      "adx_at_cross": 10.0,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 10，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 69（健康區）",
-        "距 52 週低點 43%（初期）",
-        "量增 1.4x"
+        "RSI 70（健康區）",
+        "距 52 週低點 13%（初期）",
+        "量增 1.5x"
       ],
-      "name": "芯鼎",
+      "name": "宏達電",
       "market": "上市",
-      "industry": "半導體業"
+      "industry": "通信網路業"
     },
     {
-      "code": "6684",
-      "price": 50.9,
-      "rsi": 72.6,
-      "vol_ratio": 1.15,
-      "from_low_pct": 24.9,
-      "adx_at_cross": 8.6,
+      "code": "9945",
+      "price": 29.45,
+      "rsi": 63.7,
+      "vol_ratio": 1.46,
+      "from_low_pct": 33.9,
+      "adx_at_cross": 13.0,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 9，趨勢剛形成）",
+        "DMI 翻多（ADX 13，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 73（健康區）",
-        "距 52 週低點 25%（初期）",
-        "量增 1.2x"
+        "RSI 64（健康區）",
+        "距 52 週低點 34%（初期）",
+        "量增 1.5x"
       ],
-      "name": "安格",
-      "market": "上櫃",
-      "industry": "半導體業"
+      "name": "潤泰新",
+      "market": "上市",
+      "industry": "其他業"
     }
   ]
 }
