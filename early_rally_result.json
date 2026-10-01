@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-30T21:19:42.930204+08:00",
-  "total_scanned": 2229,
+  "generated_at": "2026-10-01T22:32:49.416489+08:00",
+  "total_scanned": 1168,
   "hits": [
     {
       "code": "4419",
       "price": 50.2,
       "rsi": 68.7,
-      "vol_ratio": 4.83,
+      "vol_ratio": 4.82,
       "from_low_pct": 21.5,
       "adx_at_cross": 16.4,
       "reasons": [
@@ -23,84 +23,64 @@
       "industry": "觀光餐旅"
     },
     {
-      "code": "2031",
-      "price": 46.5,
-      "rsi": 62.0,
-      "vol_ratio": 2.0,
-      "from_low_pct": 37.0,
-      "adx_at_cross": 19.7,
+      "code": "6841",
+      "price": 57.0,
+      "rsi": 65.4,
+      "vol_ratio": 3.21,
+      "from_low_pct": 10.0,
+      "adx_at_cross": 16.4,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 20，趨勢剛形成）",
+        "DMI 翻多（ADX 16，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 62（健康區）",
-        "距 52 週低點 37%（初期）",
-        "量增 2.0x"
+        "RSI 65（健康區）",
+        "距 52 週低點 10%（初期）",
+        "量增 3.2x"
       ],
-      "name": "新光鋼",
-      "market": "上市",
-      "industry": "鋼鐵工業"
+      "name": "長佳智能",
+      "market": "上櫃",
+      "industry": "生技醫療業"
+    },
+    {
+      "code": "3332",
+      "price": 64.9,
+      "rsi": 69.4,
+      "vol_ratio": 3.09,
+      "from_low_pct": 32.1,
+      "adx_at_cross": 22.2,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 22，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 69（健康區）",
+        "距 52 週低點 32%（初期）",
+        "量增 3.1x"
+      ],
+      "name": "幸康",
+      "market": "上櫃",
+      "industry": "電子零組件業"
     },
     {
       "code": "6171",
-      "price": 26.75,
-      "rsi": 57.1,
-      "vol_ratio": 1.66,
-      "from_low_pct": 17.3,
+      "price": 27.35,
+      "rsi": 71.6,
+      "vol_ratio": 3.0,
+      "from_low_pct": 20.0,
       "adx_at_cross": 19.6,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 20，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 57（健康區）",
-        "距 52 週低點 17%（初期）",
-        "量增 1.7x"
+        "RSI 72（健康區）",
+        "距 52 週低點 20%（初期）",
+        "量增 3.0x"
       ],
       "name": "大城地產",
       "market": "上櫃",
       "industry": "建材營造業"
-    },
-    {
-      "code": "2498",
-      "price": 42.9,
-      "rsi": 70.1,
-      "vol_ratio": 1.55,
-      "from_low_pct": 13.3,
-      "adx_at_cross": 10.0,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 10，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 70（健康區）",
-        "距 52 週低點 13%（初期）",
-        "量增 1.5x"
-      ],
-      "name": "宏達電",
-      "market": "上市",
-      "industry": "通信網路業"
-    },
-    {
-      "code": "9945",
-      "price": 29.45,
-      "rsi": 63.7,
-      "vol_ratio": 1.46,
-      "from_low_pct": 33.9,
-      "adx_at_cross": 13.0,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 13，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 64（健康區）",
-        "距 52 週低點 34%（初期）",
-        "量增 1.5x"
-      ],
-      "name": "潤泰新",
-      "market": "上市",
-      "industry": "其他業"
     }
   ]
 }
