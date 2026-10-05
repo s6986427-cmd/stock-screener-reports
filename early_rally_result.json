@@ -1,126 +1,166 @@
 {
-  "generated_at": "2026-10-04T21:02:08.839721+08:00",
-  "total_scanned": 2232,
+  "generated_at": "2026-10-05T23:37:23.055659+08:00",
+  "total_scanned": 2235,
   "hits": [
     {
-      "code": "4419",
-      "price": 49.95,
-      "rsi": 71.2,
-      "vol_ratio": 4.13,
-      "from_low_pct": 20.9,
-      "adx_at_cross": 16.4,
+      "code": "5016",
+      "price": 27.0,
+      "rsi": 69.8,
+      "vol_ratio": 5.99,
+      "from_low_pct": 18.9,
+      "adx_at_cross": 16.9,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 16，趨勢剛形成）",
+        "DMI 翻多（ADX 17，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 71（健康區）",
-        "距 52 週低點 21%（初期）",
-        "量增 4.1x"
+        "RSI 70（健康區）",
+        "距 52 週低點 19%（初期）",
+        "量增 6.0x"
       ],
-      "name": "皇家美食",
+      "name": "松和",
       "market": "上櫃",
-      "industry": "觀光餐旅"
-    },
-    {
-      "code": "2028",
-      "price": 16.85,
-      "rsi": 63.9,
-      "vol_ratio": 2.28,
-      "from_low_pct": 13.0,
-      "adx_at_cross": 11.4,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 11，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 64（健康區）",
-        "距 52 週低點 13%（初期）",
-        "量增 2.3x"
-      ],
-      "name": "威致",
-      "market": "上市",
       "industry": "鋼鐵工業"
     },
     {
+      "code": "3332",
+      "price": 64.9,
+      "rsi": 72.7,
+      "vol_ratio": 3.74,
+      "from_low_pct": 32.1,
+      "adx_at_cross": 22.2,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 22，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 73（健康區）",
+        "距 52 週低點 32%（初期）",
+        "量增 3.7x"
+      ],
+      "name": "幸康",
+      "market": "上櫃",
+      "industry": "電子零組件業"
+    },
+    {
+      "code": "6120",
+      "price": 14.35,
+      "rsi": 72.2,
+      "vol_ratio": 3.55,
+      "from_low_pct": 44.5,
+      "adx_at_cross": 16.6,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 17，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 72（健康區）",
+        "距 52 週低點 44%（初期）",
+        "量增 3.5x"
+      ],
+      "name": "達運",
+      "market": "上市",
+      "industry": "光電業"
+    },
+    {
+      "code": "1416",
+      "price": 11.85,
+      "rsi": 72.0,
+      "vol_ratio": 1.93,
+      "from_low_pct": 12.8,
+      "adx_at_cross": 16.8,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 17，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 72（健康區）",
+        "距 52 週低點 13%（初期）",
+        "量增 1.9x"
+      ],
+      "name": "廣豐",
+      "market": "上市",
+      "industry": "其他業"
+    },
+    {
       "code": "2753",
-      "price": 185.0,
-      "rsi": 73.3,
-      "vol_ratio": 1.97,
-      "from_low_pct": 17.6,
+      "price": 183.5,
+      "rsi": 66.7,
+      "vol_ratio": 1.8,
+      "from_low_pct": 16.7,
       "adx_at_cross": 20.4,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 20，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 73（健康區）",
-        "距 52 週低點 18%（初期）",
-        "量增 2.0x"
+        "RSI 67（健康區）",
+        "距 52 週低點 17%（初期）",
+        "量增 1.8x"
       ],
       "name": "八方雲集",
       "market": "上市",
       "industry": "觀光餐旅"
     },
     {
-      "code": "5244",
-      "price": 37.85,
-      "rsi": 71.3,
-      "vol_ratio": 1.41,
-      "from_low_pct": 31.4,
-      "adx_at_cross": 14.9,
+      "code": "4766",
+      "price": 346.5,
+      "rsi": 60.4,
+      "vol_ratio": 1.79,
+      "from_low_pct": 19.8,
+      "adx_at_cross": 12.0,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 15，趨勢剛形成）",
+        "DMI 翻多（ADX 12，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 71（健康區）",
-        "距 52 週低點 31%（初期）",
-        "量增 1.4x"
+        "RSI 60（健康區）",
+        "距 52 週低點 20%（初期）",
+        "量增 1.8x"
       ],
-      "name": "弘凱",
+      "name": "南寶",
+      "market": "上市",
+      "industry": "化學工業"
+    },
+    {
+      "code": "2393",
+      "price": 67.0,
+      "rsi": 72.5,
+      "vol_ratio": 1.65,
+      "from_low_pct": 43.4,
+      "adx_at_cross": 11.8,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 12，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 72（健康區）",
+        "距 52 週低點 43%（初期）",
+        "量增 1.7x"
+      ],
+      "name": "億光",
       "market": "上市",
       "industry": "光電業"
     },
     {
-      "code": "6153",
-      "price": 17.95,
-      "rsi": 57.7,
-      "vol_ratio": 1.39,
-      "from_low_pct": 33.0,
-      "adx_at_cross": 10.0,
+      "code": "5521",
+      "price": 10.75,
+      "rsi": 66.7,
+      "vol_ratio": 1.35,
+      "from_low_pct": 12.0,
+      "adx_at_cross": 17.0,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 10，趨勢剛形成）",
+        "DMI 翻多（ADX 17，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 58（健康區）",
-        "距 52 週低點 33%（初期）",
+        "RSI 67（健康區）",
+        "距 52 週低點 12%（初期）",
         "量增 1.4x"
       ],
-      "name": "嘉聯益",
+      "name": "工信",
       "market": "上市",
-      "industry": "電子零組件業"
-    },
-    {
-      "code": "2031",
-      "price": 46.65,
-      "rsi": 65.3,
-      "vol_ratio": 1.33,
-      "from_low_pct": 37.5,
-      "adx_at_cross": 19.7,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 20，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 65（健康區）",
-        "距 52 週低點 37%（初期）",
-        "量增 1.3x"
-      ],
-      "name": "新光鋼",
-      "market": "上市",
-      "industry": "鋼鐵工業"
+      "industry": "建材營造業"
     }
   ]
 }
