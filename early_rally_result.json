@@ -1,46 +1,86 @@
 {
-  "generated_at": "2026-10-06T21:56:19.290228+08:00",
-  "total_scanned": 2235,
+  "generated_at": "2026-10-07T22:30:13.451716+08:00",
+  "total_scanned": 2236,
   "hits": [
     {
+      "code": "4711",
+      "price": 17.5,
+      "rsi": 64.0,
+      "vol_ratio": 5.64,
+      "from_low_pct": 23.0,
+      "adx_at_cross": 11.7,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 12，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 64（健康區）",
+        "距 52 週低點 23%（初期）",
+        "量增 5.6x"
+      ],
+      "name": "永純",
+      "market": "上櫃",
+      "industry": "化學工業"
+    },
+    {
+      "code": "3027",
+      "price": 19.75,
+      "rsi": 72.4,
+      "vol_ratio": 2.71,
+      "from_low_pct": 14.8,
+      "adx_at_cross": 11.4,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 11，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 72（健康區）",
+        "距 52 週低點 15%（初期）",
+        "量增 2.7x"
+      ],
+      "name": "盛達",
+      "market": "上市",
+      "industry": "通信網路業"
+    },
+    {
       "code": "2611",
-      "price": 15.15,
-      "rsi": 74.1,
-      "vol_ratio": 2.52,
-      "from_low_pct": 19.3,
+      "price": 15.05,
+      "rsi": 69.8,
+      "vol_ratio": 2.58,
+      "from_low_pct": 18.5,
       "adx_at_cross": 14.5,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 15，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 74（健康區）",
+        "RSI 70（健康區）",
         "距 52 週低點 19%（初期）",
-        "量增 2.5x"
+        "量增 2.6x"
       ],
       "name": "志信",
       "market": "上市",
       "industry": "航運業"
     },
     {
-      "code": "1416",
-      "price": 11.75,
-      "rsi": 69.2,
-      "vol_ratio": 1.55,
-      "from_low_pct": 11.8,
-      "adx_at_cross": 16.8,
+      "code": "6153",
+      "price": 18.0,
+      "rsi": 66.7,
+      "vol_ratio": 1.19,
+      "from_low_pct": 33.3,
+      "adx_at_cross": 10.0,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 17，趨勢剛形成）",
+        "DMI 翻多（ADX 10，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 69（健康區）",
-        "距 52 週低點 12%（初期）",
-        "量增 1.5x"
+        "RSI 67（健康區）",
+        "距 52 週低點 33%（初期）",
+        "量增 1.2x"
       ],
-      "name": "廣豐",
+      "name": "嘉聯益",
       "market": "上市",
-      "industry": "其他業"
+      "industry": "電子零組件業"
     }
   ]
 }
