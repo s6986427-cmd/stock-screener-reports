@@ -1,53 +1,93 @@
 {
-  "generated_at": "2026-10-07T22:30:13.451716+08:00",
+  "generated_at": "2026-10-08T22:21:59.514466+08:00",
   "total_scanned": 2236,
   "hits": [
     {
-      "code": "4711",
-      "price": 17.5,
-      "rsi": 64.0,
-      "vol_ratio": 5.64,
-      "from_low_pct": 23.0,
-      "adx_at_cross": 11.7,
+      "code": "1440",
+      "price": 14.35,
+      "rsi": 74.6,
+      "vol_ratio": 2.18,
+      "from_low_pct": 29.9,
+      "adx_at_cross": 13.1,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 12，趨勢剛形成）",
+        "DMI 翻多（ADX 13，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 64（健康區）",
-        "距 52 週低點 23%（初期）",
-        "量增 5.6x"
+        "RSI 75（健康區）",
+        "距 52 週低點 30%（初期）",
+        "量增 2.2x"
       ],
-      "name": "永純",
-      "market": "上櫃",
-      "industry": "化學工業"
+      "name": "南紡",
+      "market": "上市",
+      "industry": "紡織纖維"
     },
     {
-      "code": "3027",
-      "price": 19.75,
-      "rsi": 72.4,
-      "vol_ratio": 2.71,
-      "from_low_pct": 14.8,
-      "adx_at_cross": 11.4,
+      "code": "5516",
+      "price": 12.7,
+      "rsi": 64.3,
+      "vol_ratio": 2.13,
+      "from_low_pct": 27.0,
+      "adx_at_cross": 12.5,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 11，趨勢剛形成）",
+        "DMI 翻多（ADX 13，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 72（健康區）",
-        "距 52 週低點 15%（初期）",
-        "量增 2.7x"
+        "RSI 64（健康區）",
+        "距 52 週低點 27%（初期）",
+        "量增 2.1x"
       ],
-      "name": "盛達",
-      "market": "上市",
-      "industry": "通信網路業"
+      "name": "雙喜",
+      "market": "上櫃",
+      "industry": "建材營造業"
+    },
+    {
+      "code": "8083",
+      "price": 161.0,
+      "rsi": 72.7,
+      "vol_ratio": 1.85,
+      "from_low_pct": 14.6,
+      "adx_at_cross": 18.8,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 19，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 73（健康區）",
+        "距 52 週低點 15%（初期）",
+        "量增 1.9x"
+      ],
+      "name": "瑞穎",
+      "market": "上櫃",
+      "industry": "電機機械"
+    },
+    {
+      "code": "3520",
+      "price": 18.2,
+      "rsi": 66.7,
+      "vol_ratio": 1.46,
+      "from_low_pct": 30.9,
+      "adx_at_cross": 8.4,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 8，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 67（健康區）",
+        "距 52 週低點 31%（初期）",
+        "量增 1.5x"
+      ],
+      "name": "華盈",
+      "market": "上櫃",
+      "industry": "電子零組件業"
     },
     {
       "code": "2611",
-      "price": 15.05,
+      "price": 15.2,
       "rsi": 69.8,
-      "vol_ratio": 2.58,
-      "from_low_pct": 18.5,
+      "vol_ratio": 1.44,
+      "from_low_pct": 19.7,
       "adx_at_cross": 14.5,
       "reasons": [
         "日/週/月三線多頭排列",
@@ -55,32 +95,12 @@
         "DMI 翻多（ADX 15，趨勢剛形成）",
         "KD 中低檔黃金交叉",
         "RSI 70（健康區）",
-        "距 52 週低點 19%（初期）",
-        "量增 2.6x"
+        "距 52 週低點 20%（初期）",
+        "量增 1.4x"
       ],
       "name": "志信",
       "market": "上市",
       "industry": "航運業"
-    },
-    {
-      "code": "6153",
-      "price": 18.0,
-      "rsi": 66.7,
-      "vol_ratio": 1.19,
-      "from_low_pct": 33.3,
-      "adx_at_cross": 10.0,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 10，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 67（健康區）",
-        "距 52 週低點 33%（初期）",
-        "量增 1.2x"
-      ],
-      "name": "嘉聯益",
-      "market": "上市",
-      "industry": "電子零組件業"
     }
   ]
 }
