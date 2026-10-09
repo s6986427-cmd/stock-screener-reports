@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T22:21:59.514466+08:00",
-  "total_scanned": 2236,
+  "generated_at": "2026-10-09T22:17:42.313189+08:00",
+  "total_scanned": 2235,
   "hits": [
     {
       "code": "1440",
@@ -26,13 +26,13 @@
       "code": "5516",
       "price": 12.7,
       "rsi": 64.3,
-      "vol_ratio": 2.13,
+      "vol_ratio": 2.14,
       "from_low_pct": 27.0,
-      "adx_at_cross": 12.5,
+      "adx_at_cross": 12.4,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 13，趨勢剛形成）",
+        "DMI 翻多（ADX 12，趨勢剛形成）",
         "KD 中低檔黃金交叉",
         "RSI 64（健康區）",
         "距 52 週低點 27%（初期）",
@@ -48,39 +48,19 @@
       "rsi": 72.7,
       "vol_ratio": 1.85,
       "from_low_pct": 14.6,
-      "adx_at_cross": 18.8,
+      "adx_at_cross": 18.5,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 19，趨勢剛形成）",
+        "DMI 翻多（ADX 18，趨勢剛形成）",
         "KD 中低檔黃金交叉",
         "RSI 73（健康區）",
         "距 52 週低點 15%（初期）",
-        "量增 1.9x"
+        "量增 1.8x"
       ],
       "name": "瑞穎",
       "market": "上櫃",
       "industry": "電機機械"
-    },
-    {
-      "code": "3520",
-      "price": 18.2,
-      "rsi": 66.7,
-      "vol_ratio": 1.46,
-      "from_low_pct": 30.9,
-      "adx_at_cross": 8.4,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 8，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 67（健康區）",
-        "距 52 週低點 31%（初期）",
-        "量增 1.5x"
-      ],
-      "name": "華盈",
-      "market": "上櫃",
-      "industry": "電子零組件業"
     },
     {
       "code": "2611",
@@ -88,7 +68,7 @@
       "rsi": 69.8,
       "vol_ratio": 1.44,
       "from_low_pct": 19.7,
-      "adx_at_cross": 14.5,
+      "adx_at_cross": 14.6,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:15:40.909439+08:00",
+  "generated_at": "2026-10-09T22:07:56.416731+08:00",
   "total_scanned": 79,
   "hits": [
     {
@@ -8,14 +8,14 @@
       "sector": "被動元件",
       "industry": "電子零組件業",
       "price": 48.04999923706055,
-      "grade": "hot",
+      "grade": "watch",
       "tech_score": 70,
       "trend_score": 25,
       "one_liner": "受益於 被動元件升級，位於供應鏈中游，精密電阻製造。",
       "rsi": 74.5,
       "vol_ratio": 1.11,
       "from_low_pct": 23.8,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "4736",
@@ -23,14 +23,14 @@
       "sector": "網通設備",
       "industry": "生技醫療業",
       "price": 134.5,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 100,
       "trend_score": 0,
       "one_liner": "受益於 AI 儲存、NAS，位於供應鏈中游，企業級 NAS 儲存解決方案。",
       "rsi": 62.9,
-      "vol_ratio": 1.14,
+      "vol_ratio": 1.13,
       "from_low_pct": 32.5,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3483",
@@ -38,14 +38,14 @@
       "sector": "利基型記憶體",
       "industry": "電腦及週邊設備業",
       "price": 79.0,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 90,
       "trend_score": 0,
       "one_liner": "受益於 嵌入式記憶體 IP、AIoT 晶片，位於供應鏈上游，OTP/MTP 嵌入式記憶體 IP 全球龍頭。",
       "rsi": 63.2,
       "vol_ratio": 1.54,
       "from_low_pct": 15.8,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "2355",
@@ -53,14 +53,14 @@
       "sector": "電源供應",
       "industry": "電子零組件業",
       "price": 45.20000076293945,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 80,
       "trend_score": 0,
       "one_liner": "受益於 AI 伺服器、車用電子，位於供應鏈中游，高階多層 PCB。",
       "rsi": 79.6,
       "vol_ratio": 2.24,
       "from_low_pct": 58.0,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "2393",
@@ -68,14 +68,14 @@
       "sector": "光電設備",
       "industry": "光電業",
       "price": 67.80000305175781,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 80,
       "trend_score": 0,
       "one_liner": "受益於 Mini LED、車用照明，位於供應鏈中游，LED 封裝規模龐大。",
       "rsi": 74.7,
       "vol_ratio": 1.5,
       "from_low_pct": 45.1,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "5443",
@@ -83,14 +83,14 @@
       "sector": "網通設備",
       "industry": "半導體業",
       "price": 110.5,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 75,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 62.2,
       "vol_ratio": 0.82,
       "from_low_pct": 44.2,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3062",
@@ -98,14 +98,14 @@
       "sector": "連接元件",
       "industry": "通信網路業",
       "price": 22.200000762939453,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 65,
       "trend_score": 0,
       "one_liner": "受益於 5G 基站、網通，位於供應鏈中游，射頻連接器與天線。",
       "rsi": 60.8,
       "vol_ratio": 0.71,
       "from_low_pct": 21.0,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3504",
@@ -113,14 +113,14 @@
       "sector": "網通設備",
       "industry": "光電業",
       "price": 82.5999984741211,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 65,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 55.5,
       "vol_ratio": 1.01,
       "from_low_pct": 74.1,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3060",
@@ -128,29 +128,14 @@
       "sector": "網通設備",
       "industry": "電腦及週邊設備業",
       "price": 28.75,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 60,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 72.6,
       "vol_ratio": 1.36,
       "from_low_pct": 35.1,
-      "inst_signal": "買超"
-    },
-    {
-      "code": "6269",
-      "name": "台郡",
-      "sector": "印刷電路",
-      "industry": "電子零組件業",
-      "price": 63.599998474121094,
-      "grade": "watch",
-      "tech_score": 45,
-      "trend_score": 15,
-      "one_liner": "受益於 5G、AI 手機，位於供應鏈中游，FPC 柔性電路板技術領先。",
-      "rsi": 44.1,
-      "vol_ratio": 0.69,
-      "from_low_pct": 38.3,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "4938",
@@ -161,11 +146,26 @@
       "grade": "observe",
       "tech_score": 55,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 53.8,
-      "vol_ratio": 0.67,
+      "vol_ratio": 0.66,
       "from_low_pct": 37.2,
-      "inst_signal": "買超"
+      "inst_signal": "—"
+    },
+    {
+      "code": "6269",
+      "name": "台郡",
+      "sector": "印刷電路",
+      "industry": "電子零組件業",
+      "price": 63.599998474121094,
+      "grade": "observe",
+      "tech_score": 45,
+      "trend_score": 15,
+      "one_liner": "受益於 5G、AI 手機，位於供應鏈中游，FPC 柔性電路板技術領先。",
+      "rsi": 44.1,
+      "vol_ratio": 0.69,
+      "from_low_pct": 38.3,
+      "inst_signal": "—"
     },
     {
       "code": "2438",
@@ -180,7 +180,7 @@
       "rsi": 50.5,
       "vol_ratio": 0.85,
       "from_low_pct": 17.3,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "6189",
@@ -193,9 +193,9 @@
       "trend_score": 0,
       "one_liner": "受益於 AI 伺服器、電動車，位於供應鏈下游，代理品牌多元。",
       "rsi": 72.4,
-      "vol_ratio": 0.72,
+      "vol_ratio": 0.71,
       "from_low_pct": 22.2,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3019",
@@ -210,7 +210,7 @@
       "rsi": 48.3,
       "vol_ratio": 1.01,
       "from_low_pct": 17.1,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3515",
@@ -225,7 +225,7 @@
       "rsi": 77.8,
       "vol_ratio": 0.66,
       "from_low_pct": 15.3,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     }
   ]
 }

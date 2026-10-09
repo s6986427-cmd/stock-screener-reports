@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-08T22:22:00.655112+08:00",
-  "total_scanned": 2236,
+  "generated_at": "2026-10-09T22:17:43.612976+08:00",
+  "total_scanned": 2235,
   "hits": [
     {
       "code": "4720",
       "price": 25.55,
       "rsi": 77.7,
-      "vol_ratio": 3.86,
+      "vol_ratio": 3.85,
       "from_low_pct": 93.2,
-      "adx": 37.0,
+      "adx": 36.9,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 仍在多方（DIF > 訊號線）",
@@ -28,7 +28,7 @@
       "rsi": 78.6,
       "vol_ratio": 3.32,
       "from_low_pct": 53.9,
-      "adx": 25.6,
+      "adx": 25.5,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 仍在多方（DIF > 訊號線）",
@@ -46,9 +46,9 @@
       "code": "1718",
       "price": 12.2,
       "rsi": 75.8,
-      "vol_ratio": 2.72,
+      "vol_ratio": 2.73,
       "from_low_pct": 96.8,
-      "adx": 31.5,
+      "adx": 31.3,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 仍在多方（DIF > 訊號線）",
@@ -68,11 +68,11 @@
       "rsi": 75.7,
       "vol_ratio": 2.21,
       "from_low_pct": 47.5,
-      "adx": 35.7,
+      "adx": 35.4,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 仍在多方（DIF > 訊號線）",
-        "DMI 多方確立（ADX 36，趨勢已站穩）",
+        "DMI 多方確立（ADX 35，趨勢已站穩）",
         "KD 仍在多方（K > D）",
         "RSI 76",
         "距 52 週低點 48%（已起漲一段）",
@@ -86,9 +86,9 @@
       "code": "6811",
       "price": 281.0,
       "rsi": 68.2,
-      "vol_ratio": 2.16,
+      "vol_ratio": 2.15,
       "from_low_pct": 61.5,
-      "adx": 34.8,
+      "adx": 35.3,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 仍在多方（DIF > 訊號線）",
@@ -108,7 +108,7 @@
       "rsi": 75.7,
       "vol_ratio": 1.72,
       "from_low_pct": 42.4,
-      "adx": 20.7,
+      "adx": 20.9,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 仍在多方（DIF > 訊號線）",
@@ -128,7 +128,7 @@
       "rsi": 74.9,
       "vol_ratio": 1.62,
       "from_low_pct": 111.8,
-      "adx": 40.3,
+      "adx": 40.2,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 仍在多方（DIF > 訊號線）",
@@ -148,7 +148,7 @@
       "rsi": 68.8,
       "vol_ratio": 1.46,
       "from_low_pct": 66.3,
-      "adx": 23.0,
+      "adx": 22.9,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 仍在多方（DIF > 訊號線）",
@@ -163,12 +163,32 @@
       "industry": "電器電纜"
     },
     {
+      "code": "2103",
+      "price": 29.2,
+      "rsi": 66.0,
+      "vol_ratio": 1.42,
+      "from_low_pct": 117.5,
+      "adx": 32.4,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 仍在多方（DIF > 訊號線）",
+        "DMI 多方確立（ADX 32，趨勢已站穩）",
+        "KD 仍在多方（K > D）",
+        "RSI 66",
+        "距 52 週低點 117%（已起漲一段）",
+        "量能 1.4x（未明顯萎縮）"
+      ],
+      "name": "台橡",
+      "market": "上市",
+      "industry": "橡膠工業"
+    },
+    {
       "code": "5230",
       "price": 25.0,
       "rsi": 79.0,
-      "vol_ratio": 1.43,
+      "vol_ratio": 1.42,
       "from_low_pct": 67.5,
-      "adx": 47.8,
+      "adx": 47.7,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 仍在多方（DIF > 訊號線）",
@@ -183,36 +203,16 @@
       "industry": "光電業"
     },
     {
-      "code": "2103",
-      "price": 29.2,
-      "rsi": 66.0,
-      "vol_ratio": 1.42,
-      "from_low_pct": 117.5,
-      "adx": 32.5,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 仍在多方（DIF > 訊號線）",
-        "DMI 多方確立（ADX 33，趨勢已站穩）",
-        "KD 仍在多方（K > D）",
-        "RSI 66",
-        "距 52 週低點 117%（已起漲一段）",
-        "量能 1.4x（未明顯萎縮）"
-      ],
-      "name": "台橡",
-      "market": "上市",
-      "industry": "橡膠工業"
-    },
-    {
       "code": "1310",
       "price": 10.05,
       "rsi": 77.1,
-      "vol_ratio": 1.38,
+      "vol_ratio": 1.37,
       "from_low_pct": 42.4,
-      "adx": 41.6,
+      "adx": 41.3,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 仍在多方（DIF > 訊號線）",
-        "DMI 多方確立（ADX 42，趨勢已站穩）",
+        "DMI 多方確立（ADX 41，趨勢已站穩）",
         "KD 仍在多方（K > D）",
         "RSI 77",
         "距 52 週低點 42%（已起漲一段）",
@@ -228,7 +228,7 @@
       "rsi": 71.5,
       "vol_ratio": 1.3,
       "from_low_pct": 57.0,
-      "adx": 50.2,
+      "adx": 50.0,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 仍在多方（DIF > 訊號線）",
@@ -248,11 +248,11 @@
       "rsi": 64.9,
       "vol_ratio": 1.24,
       "from_low_pct": 52.4,
-      "adx": 24.5,
+      "adx": 24.4,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 仍在多方（DIF > 訊號線）",
-        "DMI 多方確立（ADX 25，趨勢已站穩）",
+        "DMI 多方確立（ADX 24，趨勢已站穩）",
         "KD 仍在多方（K > D）",
         "RSI 65",
         "距 52 週低點 52%（已起漲一段）",
@@ -286,9 +286,9 @@
       "code": "1710",
       "price": 18.1,
       "rsi": 76.1,
-      "vol_ratio": 1.19,
+      "vol_ratio": 1.2,
       "from_low_pct": 57.4,
-      "adx": 37.9,
+      "adx": 38.0,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 仍在多方（DIF > 訊號線）",
@@ -306,7 +306,7 @@
       "code": "3285",
       "price": 44.1,
       "rsi": 77.1,
-      "vol_ratio": 1.03,
+      "vol_ratio": 1.01,
       "from_low_pct": 67.0,
       "adx": 44.1,
       "reasons": [
@@ -326,9 +326,9 @@
       "code": "6691",
       "price": 789.0,
       "rsi": 80.0,
-      "vol_ratio": 1.01,
+      "vol_ratio": 0.99,
       "from_low_pct": 107.9,
-      "adx": 38.4,
+      "adx": 38.2,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 仍在多方（DIF > 訊號線）",
