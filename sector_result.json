@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:07:56.416731+08:00",
+  "generated_at": "2026-10-10T21:12:29.281813+08:00",
   "total_scanned": 79,
   "hits": [
     {
@@ -160,7 +160,7 @@
       "price": 63.599998474121094,
       "grade": "observe",
       "tech_score": 45,
-      "trend_score": 15,
+      "trend_score": 25,
       "one_liner": "受益於 5G、AI 手機，位於供應鏈中游，FPC 柔性電路板技術領先。",
       "rsi": 44.1,
       "vol_ratio": 0.69,
