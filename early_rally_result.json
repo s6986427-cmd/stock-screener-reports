@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-10-11T21:46:21.577400+08:00",
-  "total_scanned": 2235,
+  "generated_at": "2026-10-13T00:29:04.013795+08:00",
+  "total_scanned": 2237,
   "hits": [
+    {
+      "code": "2611",
+      "price": 15.2,
+      "rsi": 69.8,
+      "vol_ratio": 2.39,
+      "from_low_pct": 19.7,
+      "adx_at_cross": 14.6,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 15，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 70（健康區）",
+        "距 52 週低點 20%（初期）",
+        "量增 2.4x"
+      ],
+      "name": "志信",
+      "market": "上市",
+      "industry": "航運業"
+    },
     {
       "code": "1440",
       "price": 14.35,
       "rsi": 74.6,
-      "vol_ratio": 2.18,
+      "vol_ratio": 2.31,
       "from_low_pct": 29.9,
       "adx_at_cross": 13.1,
       "reasons": [
@@ -16,7 +36,7 @@
         "KD 中低檔黃金交叉",
         "RSI 75（健康區）",
         "距 52 週低點 30%（初期）",
-        "量增 2.2x"
+        "量增 2.3x"
       ],
       "name": "南紡",
       "market": "上市",
@@ -46,7 +66,7 @@
       "code": "8083",
       "price": 161.0,
       "rsi": 72.7,
-      "vol_ratio": 1.85,
+      "vol_ratio": 1.54,
       "from_low_pct": 14.6,
       "adx_at_cross": 18.5,
       "reasons": [
@@ -56,31 +76,11 @@
         "KD 中低檔黃金交叉",
         "RSI 73（健康區）",
         "距 52 週低點 15%（初期）",
-        "量增 1.8x"
+        "量增 1.5x"
       ],
       "name": "瑞穎",
       "market": "上櫃",
       "industry": "電機機械"
-    },
-    {
-      "code": "2611",
-      "price": 15.2,
-      "rsi": 69.8,
-      "vol_ratio": 1.44,
-      "from_low_pct": 19.7,
-      "adx_at_cross": 14.6,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 15，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 70（健康區）",
-        "距 52 週低點 20%（初期）",
-        "量增 1.4x"
-      ],
-      "name": "志信",
-      "market": "上市",
-      "industry": "航運業"
     }
   ]
 }
