@@ -1,86 +1,206 @@
 {
-  "generated_at": "2026-10-13T00:29:04.013795+08:00",
-  "total_scanned": 2237,
+  "generated_at": "2026-10-13T22:56:35.511916+08:00",
+  "total_scanned": 2236,
   "hits": [
     {
-      "code": "2611",
-      "price": 15.2,
-      "rsi": 69.8,
-      "vol_ratio": 2.39,
-      "from_low_pct": 19.7,
-      "adx_at_cross": 14.6,
+      "code": "4171",
+      "price": 18.3,
+      "rsi": 65.0,
+      "vol_ratio": 5.65,
+      "from_low_pct": 13.3,
+      "adx_at_cross": 11.5,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 15，趨勢剛形成）",
+        "DMI 翻多（ADX 12，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 70（健康區）",
-        "距 52 週低點 20%（初期）",
-        "量增 2.4x"
+        "RSI 65（健康區）",
+        "距 52 週低點 13%（初期）",
+        "量增 5.7x"
       ],
-      "name": "志信",
+      "name": "瑞基",
+      "market": "上櫃",
+      "industry": "農業科技業"
+    },
+    {
+      "code": "8442",
+      "price": 48.45,
+      "rsi": 66.4,
+      "vol_ratio": 2.56,
+      "from_low_pct": 30.4,
+      "adx_at_cross": 20.6,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 21，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 66（健康區）",
+        "距 52 週低點 30%（初期）",
+        "量增 2.6x"
+      ],
+      "name": "威宏-KY",
       "market": "上市",
-      "industry": "航運業"
+      "industry": "其他業"
+    },
+    {
+      "code": "1720",
+      "price": 57.2,
+      "rsi": 72.0,
+      "vol_ratio": 2.18,
+      "from_low_pct": 20.5,
+      "adx_at_cross": 10.7,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 11，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 72（健康區）",
+        "距 52 週低點 20%（初期）",
+        "量增 2.2x"
+      ],
+      "name": "生達",
+      "market": "上市",
+      "industry": "生技醫療業"
     },
     {
       "code": "1440",
-      "price": 14.35,
-      "rsi": 74.6,
-      "vol_ratio": 2.31,
-      "from_low_pct": 29.9,
+      "price": 14.1,
+      "rsi": 62.3,
+      "vol_ratio": 2.18,
+      "from_low_pct": 27.6,
       "adx_at_cross": 13.1,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 13，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 75（健康區）",
-        "距 52 週低點 30%（初期）",
-        "量增 2.3x"
+        "RSI 62（健康區）",
+        "距 52 週低點 28%（初期）",
+        "量增 2.2x"
       ],
       "name": "南紡",
       "market": "上市",
       "industry": "紡織纖維"
     },
     {
+      "code": "6517",
+      "price": 71.5,
+      "rsi": 70.0,
+      "vol_ratio": 2.1,
+      "from_low_pct": 33.4,
+      "adx_at_cross": 10.2,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 10，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 70（健康區）",
+        "距 52 週低點 33%（初期）",
+        "量增 2.1x"
+      ],
+      "name": "保勝光學",
+      "market": "上櫃",
+      "industry": "光電業"
+    },
+    {
+      "code": "6277",
+      "price": 81.1,
+      "rsi": 65.6,
+      "vol_ratio": 2.01,
+      "from_low_pct": 44.6,
+      "adx_at_cross": 14.9,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 15，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 66（健康區）",
+        "距 52 週低點 45%（初期）",
+        "量增 2.0x"
+      ],
+      "name": "宏正",
+      "market": "上市",
+      "industry": "電腦及週邊設備業"
+    },
+    {
       "code": "5516",
-      "price": 12.7,
-      "rsi": 64.3,
-      "vol_ratio": 2.14,
-      "from_low_pct": 27.0,
+      "price": 12.8,
+      "rsi": 71.7,
+      "vol_ratio": 1.66,
+      "from_low_pct": 28.0,
       "adx_at_cross": 12.4,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 12，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 64（健康區）",
-        "距 52 週低點 27%（初期）",
-        "量增 2.1x"
+        "RSI 72（健康區）",
+        "距 52 週低點 28%（初期）",
+        "量增 1.7x"
       ],
       "name": "雙喜",
       "market": "上櫃",
       "industry": "建材營造業"
     },
     {
-      "code": "8083",
-      "price": 161.0,
-      "rsi": 72.7,
-      "vol_ratio": 1.54,
-      "from_low_pct": 14.6,
-      "adx_at_cross": 18.5,
+      "code": "1608",
+      "price": 36.5,
+      "rsi": 53.9,
+      "vol_ratio": 1.65,
+      "from_low_pct": 35.4,
+      "adx_at_cross": 14.5,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 18，趨勢剛形成）",
+        "DMI 翻多（ADX 14，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 73（健康區）",
-        "距 52 週低點 15%（初期）",
+        "RSI 54（健康區）",
+        "距 52 週低點 35%（初期）",
+        "量增 1.6x"
+      ],
+      "name": "華榮",
+      "market": "上市",
+      "industry": "電器電纜"
+    },
+    {
+      "code": "9904",
+      "price": 25.85,
+      "rsi": 65.7,
+      "vol_ratio": 1.47,
+      "from_low_pct": 10.2,
+      "adx_at_cross": 14.4,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 14，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 66（健康區）",
+        "距 52 週低點 10%（初期）",
         "量增 1.5x"
       ],
-      "name": "瑞穎",
-      "market": "上櫃",
-      "industry": "電機機械"
+      "name": "寶成",
+      "market": "上市",
+      "industry": "運動休閒"
+    },
+    {
+      "code": "1321",
+      "price": 33.05,
+      "rsi": 66.7,
+      "vol_ratio": 1.41,
+      "from_low_pct": 16.2,
+      "adx_at_cross": 8.5,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 9，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 67（健康區）",
+        "距 52 週低點 16%（初期）",
+        "量增 1.4x"
+      ],
+      "name": "大洋",
+      "market": "上市",
+      "industry": "塑膠工業"
     }
   ]
 }
