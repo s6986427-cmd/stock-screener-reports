@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:06:48.581096+08:00",
+  "generated_at": "2026-10-17T19:17:48.105348+08:00",
   "total_scanned": 79,
   "hits": [
     {
@@ -8,14 +8,14 @@
       "sector": "被動元件",
       "industry": "電子零組件業",
       "price": 48.54999923706055,
-      "grade": "hot",
+      "grade": "watch",
       "tech_score": 90,
       "trend_score": 25,
       "one_liner": "受益於 被動元件升級，位於供應鏈中游，精密電阻製造。",
       "rsi": 61.8,
       "vol_ratio": 1.46,
       "from_low_pct": 25.1,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "5243",
@@ -23,14 +23,14 @@
       "sector": "利基型記憶體",
       "industry": "光電業",
       "price": 95.5,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 100,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 60.7,
       "vol_ratio": 1.6,
       "from_low_pct": 42.9,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3013",
@@ -38,14 +38,14 @@
       "sector": "被動元件",
       "industry": "電腦及週邊設備業",
       "price": 95.0,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 100,
       "trend_score": 0,
       "one_liner": "受益於 工業電子，位於供應鏈中游，利基型鋁質電容。",
       "rsi": 66.3,
-      "vol_ratio": 1.38,
+      "vol_ratio": 1.37,
       "from_low_pct": 37.4,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "6189",
@@ -53,14 +53,14 @@
       "sector": "被動元件",
       "industry": "電子通路業",
       "price": 50.20000076293945,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 90,
       "trend_score": 0,
       "one_liner": "受益於 AI 伺服器、電動車，位於供應鏈下游，代理品牌多元。",
       "rsi": 64.5,
-      "vol_ratio": 1.11,
+      "vol_ratio": 1.1,
       "from_low_pct": 24.4,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "4736",
@@ -68,14 +68,14 @@
       "sector": "網通設備",
       "industry": "生技醫療業",
       "price": 133.5,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 90,
       "trend_score": 0,
       "one_liner": "受益於 AI 儲存、NAS，位於供應鏈中游，企業級 NAS 儲存解決方案。",
       "rsi": 54.8,
       "vol_ratio": 1.13,
       "from_low_pct": 27.7,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3062",
@@ -83,14 +83,14 @@
       "sector": "連接元件",
       "industry": "通信網路業",
       "price": 23.0,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 90,
       "trend_score": 0,
       "one_liner": "受益於 5G 基站、網通，位於供應鏈中游，射頻連接器與天線。",
       "rsi": 57.3,
       "vol_ratio": 1.34,
       "from_low_pct": 25.3,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3483",
@@ -98,14 +98,14 @@
       "sector": "利基型記憶體",
       "industry": "電腦及週邊設備業",
       "price": 90.0,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 80,
       "trend_score": 0,
       "one_liner": "受益於 嵌入式記憶體 IP、AIoT 晶片，位於供應鏈上游，OTP/MTP 嵌入式記憶體 IP 全球龍頭。",
       "rsi": 75.8,
       "vol_ratio": 2.58,
       "from_low_pct": 31.9,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "4938",
@@ -113,14 +113,14 @@
       "sector": "連接元件",
       "industry": "電腦及週邊設備業",
       "price": 102.0,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 80,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 70.5,
       "vol_ratio": 2.57,
       "from_low_pct": 56.1,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3060",
@@ -128,14 +128,14 @@
       "sector": "網通設備",
       "industry": "電腦及週邊設備業",
       "price": 27.75,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 75,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 60.6,
       "vol_ratio": 0.86,
       "from_low_pct": 30.4,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "6261",
@@ -143,14 +143,14 @@
       "sector": "連接元件",
       "industry": "半導體業",
       "price": 78.19999694824219,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 70,
       "trend_score": 0,
       "one_liner": "受益於 車用電子，位於供應鏈中游，汽車線束連接器。",
       "rsi": 49.1,
       "vol_ratio": 2.82,
       "from_low_pct": 39.0,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3515",
@@ -158,14 +158,14 @@
       "sector": "電源供應",
       "industry": "電腦及週邊設備業",
       "price": 228.0,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 70,
       "trend_score": 0,
       "one_liner": "受益於 AI 伺服器，位於供應鏈中游，伺服器背板與機構電源整合。",
       "rsi": 78.0,
       "vol_ratio": 1.58,
       "from_low_pct": 20.3,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3504",
@@ -173,14 +173,14 @@
       "sector": "網通設備",
       "industry": "光電業",
       "price": 79.0,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 70,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 52.8,
       "vol_ratio": 1.67,
       "from_low_pct": 66.5,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3707",
@@ -188,14 +188,14 @@
       "sector": "光電設備",
       "industry": "半導體業",
       "price": 77.5999984741211,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 65,
       "trend_score": 0,
       "one_liner": "受益於 先進製程、半導體設備，位於供應鏈上游，電子束量測設備。",
       "rsi": 58.8,
       "vol_ratio": 0.52,
       "from_low_pct": 70.2,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3036",
@@ -203,14 +203,14 @@
       "sector": "利基型記憶體",
       "industry": "電子通路業",
       "price": 210.0,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 65,
       "trend_score": 0,
       "one_liner": "受益於 AI 半導體通路、記憶體通路，位於供應鏈下游，台灣最大半導體通路商。",
       "rsi": 55.9,
       "vol_ratio": 1.07,
       "from_low_pct": 65.5,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "5443",
@@ -221,11 +221,11 @@
       "grade": "observe",
       "tech_score": 45,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 49.2,
       "vol_ratio": 1.03,
       "from_low_pct": 37.7,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3023",
@@ -240,7 +240,7 @@
       "rsi": 52.9,
       "vol_ratio": 1.01,
       "from_low_pct": 74.7,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "2438",
@@ -255,7 +255,7 @@
       "rsi": 42.4,
       "vol_ratio": 0.72,
       "from_low_pct": 17.3,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "6405",
@@ -266,11 +266,11 @@
       "grade": "observe",
       "tech_score": 35,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 46.6,
       "vol_ratio": 0.58,
       "from_low_pct": 63.9,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     }
   ]
 }

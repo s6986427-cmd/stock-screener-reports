@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T20:11:20.339155+08:00",
+  "generated_at": "2026-10-17T19:22:30.113208+08:00",
   "total_scanned": 2242,
   "hits": [
     {
       "code": "6517",
       "price": 77.0,
       "rsi": 76.9,
-      "vol_ratio": 4.55,
+      "vol_ratio": 4.56,
       "from_low_pct": 43.7,
       "adx": 22.0,
       "reasons": [
@@ -26,7 +26,7 @@
       "code": "8437",
       "price": 14.9,
       "rsi": 77.2,
-      "vol_ratio": 3.9,
+      "vol_ratio": 3.89,
       "from_low_pct": 70.7,
       "adx": 43.8,
       "reasons": [
@@ -86,7 +86,7 @@
       "code": "6782",
       "price": 259.5,
       "rsi": 63.1,
-      "vol_ratio": 2.22,
+      "vol_ratio": 2.2,
       "from_low_pct": 61.9,
       "adx": 25.6,
       "reasons": [
@@ -116,7 +116,7 @@
         "KD 仍在多方（K > D）",
         "RSI 70",
         "距 52 週低點 67%（已起漲一段）",
-        "量能 2.2x（未明顯萎縮）"
+        "量能 2.1x（未明顯萎縮）"
       ],
       "name": "碩天",
       "market": "上市",
@@ -126,7 +126,7 @@
       "code": "2816",
       "price": 44.4,
       "rsi": 73.9,
-      "vol_ratio": 2.01,
+      "vol_ratio": 2.0,
       "from_low_pct": 75.7,
       "adx": 52.1,
       "reasons": [
@@ -266,7 +266,7 @@
       "code": "2881",
       "price": 161.5,
       "rsi": 68.1,
-      "vol_ratio": 1.55,
+      "vol_ratio": 1.54,
       "from_low_pct": 94.2,
       "adx": 31.7,
       "reasons": [
@@ -286,7 +286,7 @@
       "code": "2891",
       "price": 73.6,
       "rsi": 70.4,
-      "vol_ratio": 1.55,
+      "vol_ratio": 1.54,
       "from_low_pct": 82.4,
       "adx": 20.6,
       "reasons": [
@@ -299,46 +299,6 @@
         "量能 1.5x（未明顯萎縮）"
       ],
       "name": "中信金",
-      "market": "上市",
-      "industry": "金融保險業"
-    },
-    {
-      "code": "4961",
-      "price": 190.0,
-      "rsi": 62.6,
-      "vol_ratio": 1.53,
-      "from_low_pct": 47.6,
-      "adx": 22.0,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 仍在多方（DIF > 訊號線）",
-        "DMI 多方確立（ADX 22，趨勢已站穩）",
-        "KD 仍在多方（K > D）",
-        "RSI 63",
-        "距 52 週低點 48%（已起漲一段）",
-        "量能 1.5x（未明顯萎縮）"
-      ],
-      "name": "天鈺",
-      "market": "上市",
-      "industry": "半導體業"
-    },
-    {
-      "code": "2884",
-      "price": 49.15,
-      "rsi": 73.2,
-      "vol_ratio": 1.53,
-      "from_low_pct": 73.7,
-      "adx": 43.4,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 仍在多方（DIF > 訊號線）",
-        "DMI 多方確立（ADX 43，趨勢已站穩）",
-        "KD 仍在多方（K > D）",
-        "RSI 73",
-        "距 52 週低點 74%（已起漲一段）",
-        "量能 1.5x（未明顯萎縮）"
-      ],
-      "name": "玉山金",
       "market": "上市",
       "industry": "金融保險業"
     },
@@ -363,10 +323,50 @@
       "industry": "數位雲端"
     },
     {
+      "code": "2884",
+      "price": 49.15,
+      "rsi": 73.2,
+      "vol_ratio": 1.53,
+      "from_low_pct": 73.7,
+      "adx": 43.4,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 仍在多方（DIF > 訊號線）",
+        "DMI 多方確立（ADX 43，趨勢已站穩）",
+        "KD 仍在多方（K > D）",
+        "RSI 73",
+        "距 52 週低點 74%（已起漲一段）",
+        "量能 1.5x（未明顯萎縮）"
+      ],
+      "name": "玉山金",
+      "market": "上市",
+      "industry": "金融保險業"
+    },
+    {
+      "code": "4961",
+      "price": 190.0,
+      "rsi": 62.6,
+      "vol_ratio": 1.52,
+      "from_low_pct": 47.6,
+      "adx": 22.0,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 仍在多方（DIF > 訊號線）",
+        "DMI 多方確立（ADX 22，趨勢已站穩）",
+        "KD 仍在多方（K > D）",
+        "RSI 63",
+        "距 52 週低點 48%（已起漲一段）",
+        "量能 1.5x（未明顯萎縮）"
+      ],
+      "name": "天鈺",
+      "market": "上市",
+      "industry": "半導體業"
+    },
+    {
       "code": "4938",
       "price": 102.0,
       "rsi": 70.5,
-      "vol_ratio": 1.51,
+      "vol_ratio": 1.5,
       "from_low_pct": 56.1,
       "adx": 30.9,
       "reasons": [
@@ -386,7 +386,7 @@
       "code": "2031",
       "price": 47.9,
       "rsi": 69.5,
-      "vol_ratio": 1.47,
+      "vol_ratio": 1.46,
       "from_low_pct": 41.1,
       "adx": 34.8,
       "reasons": [
@@ -406,7 +406,7 @@
       "code": "2615",
       "price": 122.5,
       "rsi": 61.8,
-      "vol_ratio": 1.43,
+      "vol_ratio": 1.42,
       "from_low_pct": 73.4,
       "adx": 30.2,
       "reasons": [
@@ -486,7 +486,7 @@
       "code": "2603",
       "price": 265.5,
       "rsi": 66.4,
-      "vol_ratio": 1.37,
+      "vol_ratio": 1.36,
       "from_low_pct": 61.3,
       "adx": 24.9,
       "reasons": [
@@ -506,7 +506,7 @@
       "code": "2027",
       "price": 50.9,
       "rsi": 79.5,
-      "vol_ratio": 1.35,
+      "vol_ratio": 1.34,
       "from_low_pct": 52.0,
       "adx": 26.8,
       "reasons": [
@@ -586,7 +586,7 @@
       "code": "2006",
       "price": 92.1,
       "rsi": 68.6,
-      "vol_ratio": 1.26,
+      "vol_ratio": 1.25,
       "from_low_pct": 64.2,
       "adx": 38.8,
       "reasons": [
@@ -606,7 +606,7 @@
       "code": "2379",
       "price": 778.0,
       "rsi": 57.1,
-      "vol_ratio": 1.25,
+      "vol_ratio": 1.23,
       "from_low_pct": 81.0,
       "adx": 32.9,
       "reasons": [
@@ -626,7 +626,7 @@
       "code": "2882",
       "price": 116.0,
       "rsi": 63.6,
-      "vol_ratio": 1.19,
+      "vol_ratio": 1.18,
       "from_low_pct": 89.2,
       "adx": 28.8,
       "reasons": [
@@ -666,7 +666,7 @@
       "code": "8476",
       "price": 21.5,
       "rsi": 72.7,
-      "vol_ratio": 1.18,
+      "vol_ratio": 1.17,
       "from_low_pct": 43.1,
       "adx": 28.9,
       "reasons": [
@@ -686,7 +686,7 @@
       "code": "2850",
       "price": 170.0,
       "rsi": 68.3,
-      "vol_ratio": 1.15,
+      "vol_ratio": 1.14,
       "from_low_pct": 58.9,
       "adx": 24.5,
       "reasons": [
@@ -696,7 +696,7 @@
         "KD 仍在多方（K > D）",
         "RSI 68",
         "距 52 週低點 59%（已起漲一段）",
-        "量能 1.2x（未明顯萎縮）"
+        "量能 1.1x（未明顯萎縮）"
       ],
       "name": "新產",
       "market": "上市",
@@ -706,7 +706,7 @@
       "code": "4566",
       "price": 81.8,
       "rsi": 76.9,
-      "vol_ratio": 0.99,
+      "vol_ratio": 0.98,
       "from_low_pct": 60.7,
       "adx": 36.8,
       "reasons": [

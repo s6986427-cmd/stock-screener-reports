@@ -1,30 +1,16 @@
 {
-  "generated_at": "2026-10-16T20:19:51.957043+08:00",
+  "generated_at": "2026-10-17T19:25:50.937095+08:00",
   "total_scanned": 2242,
   "hits": [
-    {
-      "code": "8437",
-      "price": 14.9,
-      "daily_gain_pct": 10.0,
-      "vol_ratio": 6.73,
-      "rsi": 77.2,
-      "reasons": [
-        "今日大漲 10.0%",
-        "爆量 6.7x"
-      ],
-      "name": "大地-KY",
-      "market": "上櫃",
-      "industry": "其他業"
-    },
     {
       "code": "6756",
       "price": 110.0,
       "daily_gain_pct": 10.0,
-      "vol_ratio": 8.62,
+      "vol_ratio": 8.45,
       "rsi": 75.1,
       "reasons": [
         "今日大漲 10.0%",
-        "爆量 8.6x"
+        "爆量 8.4x"
       ],
       "name": "威鋒電子",
       "market": "上市",
@@ -48,91 +34,49 @@
       "code": "6418",
       "price": 36.4,
       "daily_gain_pct": 10.0,
-      "vol_ratio": 5.98,
+      "vol_ratio": 6.1,
       "rsi": 61.7,
       "reasons": [
         "今日大漲 10.0%",
-        "爆量 6.0x"
+        "爆量 6.1x"
       ],
       "name": "詠昇",
       "market": "上櫃",
       "industry": "電子零組件業"
     },
     {
-      "code": "6269",
-      "price": 82.0,
-      "daily_gain_pct": 9.9,
-      "vol_ratio": 6.97,
-      "rsi": 80.4,
+      "code": "8437",
+      "price": 14.9,
+      "daily_gain_pct": 10.0,
+      "vol_ratio": 6.61,
+      "rsi": 77.2,
       "reasons": [
-        "今日大漲 9.9%",
-        "爆量 7.0x"
+        "今日大漲 10.0%",
+        "爆量 6.6x"
       ],
-      "name": "台郡",
-      "market": "上市",
-      "industry": "電子零組件業"
+      "name": "大地-KY",
+      "market": "上櫃",
+      "industry": "其他業"
     },
     {
       "code": "5498",
       "price": 59.8,
       "daily_gain_pct": 9.9,
-      "vol_ratio": 11.78,
+      "vol_ratio": 11.71,
       "rsi": 71.9,
       "reasons": [
         "今日大漲 9.9%",
-        "爆量 11.8x"
+        "爆量 11.7x"
       ],
       "name": "凱崴",
       "market": "上櫃",
       "industry": "電子零組件業"
     },
     {
-      "code": "4939",
-      "price": 83.3,
-      "daily_gain_pct": 9.9,
-      "vol_ratio": 2.57,
-      "rsi": 59.9,
-      "reasons": [
-        "今日大漲 9.9%",
-        "爆量 2.6x"
-      ],
-      "name": "亞電",
-      "market": "上櫃",
-      "industry": "電子零組件業"
-    },
-    {
-      "code": "4188",
-      "price": 14.4,
-      "daily_gain_pct": 9.9,
-      "vol_ratio": 3.05,
-      "rsi": 45.1,
-      "reasons": [
-        "今日大漲 9.9%",
-        "爆量 3.0x"
-      ],
-      "name": "安克",
-      "market": "上櫃",
-      "industry": "生技醫療業"
-    },
-    {
-      "code": "2380",
-      "price": 18.85,
-      "daily_gain_pct": 9.9,
-      "vol_ratio": 8.76,
-      "rsi": 69.0,
-      "reasons": [
-        "今日大漲 9.9%",
-        "爆量 8.8x"
-      ],
-      "name": "虹光",
-      "market": "上市",
-      "industry": "電腦及週邊設備業"
-    },
-    {
       "code": "2424",
       "price": 15.6,
       "daily_gain_pct": 9.9,
-      "vol_ratio": 3.08,
+      "vol_ratio": 3.09,
       "rsi": 97.2,
       "reasons": [
         "今日大漲 9.9%",
@@ -143,24 +87,80 @@
       "industry": "通信網路業"
     },
     {
+      "code": "4188",
+      "price": 14.4,
+      "daily_gain_pct": 9.9,
+      "vol_ratio": 3.03,
+      "rsi": 45.1,
+      "reasons": [
+        "今日大漲 9.9%",
+        "爆量 3.0x"
+      ],
+      "name": "安克",
+      "market": "上櫃",
+      "industry": "生技醫療業"
+    },
+    {
+      "code": "6269",
+      "price": 82.0,
+      "daily_gain_pct": 9.9,
+      "vol_ratio": 6.92,
+      "rsi": 80.4,
+      "reasons": [
+        "今日大漲 9.9%",
+        "爆量 6.9x"
+      ],
+      "name": "台郡",
+      "market": "上市",
+      "industry": "電子零組件業"
+    },
+    {
+      "code": "2380",
+      "price": 18.85,
+      "daily_gain_pct": 9.9,
+      "vol_ratio": 8.54,
+      "rsi": 69.0,
+      "reasons": [
+        "今日大漲 9.9%",
+        "爆量 8.5x"
+      ],
+      "name": "虹光",
+      "market": "上市",
+      "industry": "電腦及週邊設備業"
+    },
+    {
       "code": "6751",
       "price": 54.5,
       "daily_gain_pct": 9.9,
-      "vol_ratio": 6.37,
+      "vol_ratio": 6.25,
       "rsi": 82.6,
       "reasons": [
         "今日大漲 9.9%",
-        "爆量 6.4x"
+        "爆量 6.2x"
       ],
       "name": "智聯服務",
       "market": "上櫃",
       "industry": "資訊服務業"
     },
     {
+      "code": "4939",
+      "price": 83.3,
+      "daily_gain_pct": 9.9,
+      "vol_ratio": 2.55,
+      "rsi": 59.9,
+      "reasons": [
+        "今日大漲 9.9%",
+        "爆量 2.6x"
+      ],
+      "name": "亞電",
+      "market": "上櫃",
+      "industry": "電子零組件業"
+    },
+    {
       "code": "6877",
       "price": 163.0,
       "daily_gain_pct": 9.8,
-      "vol_ratio": 3.42,
+      "vol_ratio": 3.36,
       "rsi": 68.5,
       "reasons": [
         "今日大漲 9.8%",
@@ -171,28 +171,14 @@
       "industry": "其他電子業"
     },
     {
-      "code": "1815",
-      "price": 140.0,
-      "daily_gain_pct": 9.8,
-      "vol_ratio": 2.5,
-      "rsi": 68.5,
-      "reasons": [
-        "今日大漲 9.8%",
-        "爆量 2.5x"
-      ],
-      "name": "富喬",
-      "market": "上櫃",
-      "industry": "電子零組件業"
-    },
-    {
       "code": "3305",
       "price": 113.0,
       "daily_gain_pct": 9.7,
-      "vol_ratio": 3.57,
+      "vol_ratio": 3.5,
       "rsi": 69.6,
       "reasons": [
         "今日大漲 9.7%",
-        "爆量 3.6x"
+        "爆量 3.5x"
       ],
       "name": "昇貿",
       "market": "上市",
@@ -202,7 +188,7 @@
       "code": "3535",
       "price": 103.5,
       "daily_gain_pct": 9.5,
-      "vol_ratio": 3.94,
+      "vol_ratio": 3.87,
       "rsi": 85.7,
       "reasons": [
         "今日大漲 9.5%",
@@ -216,7 +202,7 @@
       "code": "6934",
       "price": 87.0,
       "daily_gain_pct": 8.5,
-      "vol_ratio": 3.51,
+      "vol_ratio": 3.49,
       "rsi": 74.5,
       "reasons": [
         "今日大漲 8.5%",
@@ -230,35 +216,21 @@
       "code": "8089",
       "price": 21.65,
       "daily_gain_pct": 8.2,
-      "vol_ratio": 4.88,
+      "vol_ratio": 4.82,
       "rsi": 68.4,
       "reasons": [
         "今日大漲 8.2%",
-        "爆量 4.9x"
+        "爆量 4.8x"
       ],
       "name": "康全電訊",
       "market": "上櫃",
       "industry": "通信網路業"
     },
     {
-      "code": "6209",
-      "price": 100.5,
-      "daily_gain_pct": 8.1,
-      "vol_ratio": 4.11,
-      "rsi": 87.6,
-      "reasons": [
-        "今日大漲 8.1%",
-        "爆量 4.1x"
-      ],
-      "name": "今國光",
-      "market": "上市",
-      "industry": "光電業"
-    },
-    {
       "code": "6112",
       "price": 49.2,
       "daily_gain_pct": 8.1,
-      "vol_ratio": 2.82,
+      "vol_ratio": 2.8,
       "rsi": 54.3,
       "reasons": [
         "今日大漲 8.1%",
@@ -269,10 +241,24 @@
       "industry": "資訊服務業"
     },
     {
+      "code": "6209",
+      "price": 100.5,
+      "daily_gain_pct": 8.1,
+      "vol_ratio": 4.08,
+      "rsi": 87.6,
+      "reasons": [
+        "今日大漲 8.1%",
+        "爆量 4.1x"
+      ],
+      "name": "今國光",
+      "market": "上市",
+      "industry": "光電業"
+    },
+    {
       "code": "3630",
       "price": 29.3,
       "daily_gain_pct": 8.1,
-      "vol_ratio": 2.91,
+      "vol_ratio": 2.9,
       "rsi": 62.3,
       "reasons": [
         "今日大漲 8.1%",
@@ -286,7 +272,7 @@
       "code": "6234",
       "price": 48.1,
       "daily_gain_pct": 7.8,
-      "vol_ratio": 3.17,
+      "vol_ratio": 3.16,
       "rsi": 72.3,
       "reasons": [
         "今日大漲 7.8%",
@@ -300,7 +286,7 @@
       "code": "4557",
       "price": 57.0,
       "daily_gain_pct": 7.8,
-      "vol_ratio": 3.63,
+      "vol_ratio": 3.57,
       "rsi": 97.4,
       "reasons": [
         "今日大漲 7.8%",
@@ -328,7 +314,7 @@
       "code": "6153",
       "price": 19.25,
       "daily_gain_pct": 6.6,
-      "vol_ratio": 7.83,
+      "vol_ratio": 7.82,
       "rsi": 65.5,
       "reasons": [
         "今日大漲 6.6%",
@@ -342,11 +328,11 @@
       "code": "3062",
       "price": 23.0,
       "daily_gain_pct": 6.5,
-      "vol_ratio": 3.56,
+      "vol_ratio": 3.55,
       "rsi": 57.3,
       "reasons": [
         "今日大漲 6.5%",
-        "爆量 3.6x"
+        "爆量 3.5x"
       ],
       "name": "建漢",
       "market": "上市",
@@ -356,7 +342,7 @@
       "code": "6909",
       "price": 48.45,
       "daily_gain_pct": 6.1,
-      "vol_ratio": 5.79,
+      "vol_ratio": 5.76,
       "rsi": 71.1,
       "reasons": [
         "今日大漲 6.1%",
