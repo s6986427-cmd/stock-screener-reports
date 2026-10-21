@@ -1,86 +1,26 @@
 {
-  "generated_at": "2026-10-20T20:38:42.134186+08:00",
-  "total_scanned": 2246,
+  "generated_at": "2026-10-21T20:48:16.668504+08:00",
+  "total_scanned": 2248,
   "hits": [
     {
-      "code": "4155",
-      "price": 16.15,
-      "rsi": 73.8,
-      "vol_ratio": 4.61,
-      "from_low_pct": 22.4,
-      "adx_at_cross": 19.6,
+      "code": "7584",
+      "price": 30.8,
+      "rsi": 65.7,
+      "vol_ratio": 3.37,
+      "from_low_pct": 37.0,
+      "adx_at_cross": 13.3,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 20，趨勢剛形成）",
+        "DMI 翻多（ADX 13，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 74（健康區）",
-        "距 52 週低點 22%（初期）",
-        "量增 4.6x"
-      ],
-      "name": "訊映",
-      "market": "上市",
-      "industry": "生技醫療業"
-    },
-    {
-      "code": "6517",
-      "price": 74.2,
-      "rsi": 71.0,
-      "vol_ratio": 3.4,
-      "from_low_pct": 38.5,
-      "adx_at_cross": 10.2,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 10，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 71（健康區）",
-        "距 52 週低點 38%（初期）",
+        "RSI 66（健康區）",
+        "距 52 週低點 37%（初期）",
         "量增 3.4x"
       ],
-      "name": "保勝光學",
+      "name": "樂意",
       "market": "上櫃",
-      "industry": "光電業"
-    },
-    {
-      "code": "6934",
-      "price": 86.9,
-      "rsi": 70.0,
-      "vol_ratio": 1.83,
-      "from_low_pct": 33.7,
-      "adx_at_cross": 15.7,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 16，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 70（健康區）",
-        "距 52 週低點 34%（初期）",
-        "量增 1.8x"
-      ],
-      "name": "心誠鎂",
-      "market": "上市",
-      "industry": "生技醫療業"
-    },
-    {
-      "code": "4904",
-      "price": 112.0,
-      "rsi": 72.7,
-      "vol_ratio": 1.28,
-      "from_low_pct": 36.2,
-      "adx_at_cross": 19.2,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 19，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 73（健康區）",
-        "距 52 週低點 36%（初期）",
-        "量增 1.3x"
-      ],
-      "name": "遠傳",
-      "market": "上市",
-      "industry": "通信網路業"
+      "industry": "文化創意業"
     }
   ]
 }
