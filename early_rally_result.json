@@ -1,26 +1,46 @@
 {
-  "generated_at": "2026-10-21T20:48:16.668504+08:00",
-  "total_scanned": 2248,
+  "generated_at": "2026-10-22T20:53:41.406473+08:00",
+  "total_scanned": 2251,
   "hits": [
     {
-      "code": "7584",
-      "price": 30.8,
-      "rsi": 65.7,
-      "vol_ratio": 3.37,
-      "from_low_pct": 37.0,
-      "adx_at_cross": 13.3,
+      "code": "4155",
+      "price": 16.8,
+      "rsi": 71.5,
+      "vol_ratio": 4.84,
+      "from_low_pct": 27.3,
+      "adx_at_cross": 19.6,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 13，趨勢剛形成）",
+        "DMI 翻多（ADX 20，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 66（健康區）",
-        "距 52 週低點 37%（初期）",
-        "量增 3.4x"
+        "RSI 71（健康區）",
+        "距 52 週低點 27%（初期）",
+        "量增 4.8x"
       ],
-      "name": "樂意",
+      "name": "訊映",
+      "market": "上市",
+      "industry": "生技醫療業"
+    },
+    {
+      "code": "4953",
+      "price": 125.5,
+      "rsi": 71.1,
+      "vol_ratio": 2.78,
+      "from_low_pct": 21.2,
+      "adx_at_cross": 8.6,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 9，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 71（健康區）",
+        "距 52 週低點 21%（初期）",
+        "量增 2.8x"
+      ],
+      "name": "緯致",
       "market": "上櫃",
-      "industry": "文化創意業"
+      "industry": "資訊服務業"
     }
   ]
 }
