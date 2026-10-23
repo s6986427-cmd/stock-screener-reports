@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T20:53:41.406473+08:00",
-  "total_scanned": 2251,
+  "generated_at": "2026-10-23T20:33:20.107586+08:00",
+  "total_scanned": 2252,
   "hits": [
     {
       "code": "4155",
@@ -26,7 +26,7 @@
       "code": "4953",
       "price": 125.5,
       "rsi": 71.1,
-      "vol_ratio": 2.78,
+      "vol_ratio": 2.76,
       "from_low_pct": 21.2,
       "adx_at_cross": 8.6,
       "reasons": [
