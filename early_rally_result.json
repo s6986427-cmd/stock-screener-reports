@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-26T21:52:39.436069+08:00",
-  "total_scanned": 2252,
+  "generated_at": "2026-10-27T21:12:59.659625+08:00",
+  "total_scanned": 2254,
   "hits": [
     {
       "code": "3325",
-      "price": 12.8,
-      "rsi": 67.2,
-      "vol_ratio": 2.95,
-      "from_low_pct": 15.8,
+      "price": 12.4,
+      "rsi": 62.9,
+      "vol_ratio": 3.33,
+      "from_low_pct": 12.2,
       "adx_at_cross": 17.5,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 18，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 67（健康區）",
-        "距 52 週低點 16%（初期）",
-        "量增 3.0x"
+        "RSI 63（健康區）",
+        "距 52 週低點 12%（初期）",
+        "量增 3.3x"
       ],
       "name": "旭品",
       "market": "上櫃",
@@ -24,63 +24,83 @@
     },
     {
       "code": "8272",
-      "price": 67.6,
-      "rsi": 71.2,
-      "vol_ratio": 2.86,
-      "from_low_pct": 12.5,
+      "price": 66.8,
+      "rsi": 73.4,
+      "vol_ratio": 3.01,
+      "from_low_pct": 11.1,
       "adx_at_cross": 16.8,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 17，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 71（健康區）",
-        "距 52 週低點 12%（初期）",
-        "量增 2.9x"
+        "RSI 73（健康區）",
+        "距 52 週低點 11%（初期）",
+        "量增 3.0x"
       ],
       "name": "全景軟體",
       "market": "上櫃",
       "industry": "資訊服務業"
     },
     {
-      "code": "4155",
-      "price": 16.8,
-      "rsi": 71.5,
-      "vol_ratio": 2.74,
-      "from_low_pct": 27.3,
-      "adx_at_cross": 19.6,
+      "code": "9910",
+      "price": 72.2,
+      "rsi": 74.3,
+      "vol_ratio": 1.7,
+      "from_low_pct": 12.5,
+      "adx_at_cross": 13.0,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 20，趨勢剛形成）",
+        "DMI 翻多（ADX 13，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 71（健康區）",
-        "距 52 週低點 27%（初期）",
-        "量增 2.7x"
+        "RSI 74（健康區）",
+        "距 52 週低點 12%（初期）",
+        "量增 1.7x"
       ],
-      "name": "訊映",
+      "name": "豐泰",
       "market": "上市",
-      "industry": "生技醫療業"
+      "industry": "運動休閒"
     },
     {
-      "code": "4953",
-      "price": 125.5,
-      "rsi": 71.1,
-      "vol_ratio": 2.3,
-      "from_low_pct": 21.2,
-      "adx_at_cross": 8.6,
+      "code": "7786",
+      "price": 124.5,
+      "rsi": 55.7,
+      "vol_ratio": 1.35,
+      "from_low_pct": 14.2,
+      "adx_at_cross": 10.1,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 9，趨勢剛形成）",
+        "DMI 翻多（ADX 10，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 71（健康區）",
-        "距 52 週低點 21%（初期）",
-        "量增 2.3x"
+        "RSI 56（健康區）",
+        "距 52 週低點 14%（初期）",
+        "量增 1.3x"
       ],
-      "name": "緯致",
+      "name": "東方風能",
+      "market": "上市",
+      "industry": "綠能環保"
+    },
+    {
+      "code": "5278",
+      "price": 24.1,
+      "rsi": 61.4,
+      "vol_ratio": 1.26,
+      "from_low_pct": 13.7,
+      "adx_at_cross": 10.6,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 11，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 61（健康區）",
+        "距 52 週低點 14%（初期）",
+        "量增 1.3x"
+      ],
+      "name": "尚凡*",
       "market": "上櫃",
-      "industry": "資訊服務業"
+      "industry": "數位雲端"
     }
   ]
 }
