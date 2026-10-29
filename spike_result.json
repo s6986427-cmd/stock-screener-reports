@@ -1,272 +1,300 @@
 {
-  "generated_at": "2026-10-28T22:09:13.449285+08:00",
-  "total_scanned": 2256,
+  "generated_at": "2026-10-29T22:22:16.172485+08:00",
+  "total_scanned": 2258,
   "hits": [
     {
-      "code": "3006",
-      "price": 275.5,
+      "code": "3035",
+      "price": 231.5,
       "daily_gain_pct": 10.0,
-      "vol_ratio": 2.69,
-      "rsi": 50.7,
-      "reasons": [
-        "今日大漲 10.0%",
-        "爆量 2.7x"
-      ],
-      "name": "晶豪科",
-      "market": "上市",
-      "industry": "半導體業"
-    },
-    {
-      "code": "3581",
-      "price": 116.0,
-      "daily_gain_pct": 10.0,
-      "vol_ratio": 8.61,
-      "rsi": 52.3,
-      "reasons": [
-        "今日大漲 10.0%",
-        "爆量 8.6x"
-      ],
-      "name": "博磊",
-      "market": "上櫃",
-      "industry": "半導體業"
-    },
-    {
-      "code": "4526",
-      "price": 49.65,
-      "daily_gain_pct": 10.0,
-      "vol_ratio": 8.37,
-      "rsi": 85.3,
+      "vol_ratio": 8.38,
+      "rsi": 60.6,
       "reasons": [
         "今日大漲 10.0%",
         "爆量 8.4x"
       ],
-      "name": "東台",
+      "name": "智原",
       "market": "上市",
-      "industry": "電機機械"
+      "industry": "半導體業"
     },
     {
-      "code": "6418",
-      "price": 52.8,
+      "code": "6240",
+      "price": 37.0,
       "daily_gain_pct": 10.0,
-      "vol_ratio": 6.53,
-      "rsi": 79.6,
+      "vol_ratio": 3.95,
+      "rsi": 82.7,
       "reasons": [
         "今日大漲 10.0%",
-        "爆量 6.5x"
+        "爆量 4.0x"
       ],
-      "name": "詠昇",
+      "name": "松崗",
       "market": "上櫃",
-      "industry": "電子零組件業"
+      "industry": "資訊服務業"
     },
     {
-      "code": "8240",
-      "price": 58.5,
+      "code": "6233",
+      "price": 30.9,
+      "daily_gain_pct": 10.0,
+      "vol_ratio": 17.01,
+      "rsi": 93.4,
+      "reasons": [
+        "今日大漲 10.0%",
+        "爆量 17.0x"
+      ],
+      "name": "旺玖",
+      "market": "上櫃",
+      "industry": "半導體業"
+    },
+    {
+      "code": "3105",
+      "price": 594.0,
       "daily_gain_pct": 10.0,
       "vol_ratio": 2.77,
-      "rsi": 56.9,
+      "rsi": 51.0,
       "reasons": [
         "今日大漲 10.0%",
         "爆量 2.8x"
       ],
-      "name": "華宏",
-      "market": "上櫃",
-      "industry": "光電業"
-    },
-    {
-      "code": "3379",
-      "price": 29.7,
-      "daily_gain_pct": 10.0,
-      "vol_ratio": 9.66,
-      "rsi": 61.3,
-      "reasons": [
-        "今日大漲 10.0%",
-        "爆量 9.7x"
-      ],
-      "name": "彬台",
-      "market": "上櫃",
-      "industry": "電機機械"
-    },
-    {
-      "code": "3260",
-      "price": 363.5,
-      "daily_gain_pct": 10.0,
-      "vol_ratio": 2.72,
-      "rsi": 47.2,
-      "reasons": [
-        "今日大漲 10.0%",
-        "爆量 2.7x"
-      ],
-      "name": "威剛",
+      "name": "穩懋",
       "market": "上櫃",
       "industry": "半導體業"
     },
     {
       "code": "3321",
-      "price": 19.5,
-      "daily_gain_pct": 9.9,
-      "vol_ratio": 3.13,
-      "rsi": 62.7,
+      "price": 21.45,
+      "daily_gain_pct": 10.0,
+      "vol_ratio": 17.86,
+      "rsi": 72.4,
       "reasons": [
-        "今日大漲 9.9%",
-        "爆量 3.1x"
+        "今日大漲 10.0%",
+        "爆量 17.9x"
       ],
       "name": "同泰",
       "market": "上市",
       "industry": "電子零組件業"
     },
     {
-      "code": "4714",
-      "price": 12.85,
+      "code": "8291",
+      "price": 30.85,
+      "daily_gain_pct": 10.0,
+      "vol_ratio": 5.43,
+      "rsi": 57.8,
+      "reasons": [
+        "今日大漲 10.0%",
+        "爆量 5.4x"
+      ],
+      "name": "尚茂",
+      "market": "上櫃",
+      "industry": "電子零組件業"
+    },
+    {
+      "code": "8272",
+      "price": 71.0,
+      "daily_gain_pct": 9.9,
+      "vol_ratio": 12.47,
+      "rsi": 76.2,
+      "reasons": [
+        "今日大漲 9.9%",
+        "爆量 12.5x"
+      ],
+      "name": "全景軟體",
+      "market": "上櫃",
+      "industry": "資訊服務業"
+    },
+    {
+      "code": "2352",
+      "price": 32.8,
+      "daily_gain_pct": 9.9,
+      "vol_ratio": 20.09,
+      "rsi": 77.9,
+      "reasons": [
+        "今日大漲 9.9%",
+        "爆量 20.1x"
+      ],
+      "name": "佳世達",
+      "market": "上市",
+      "industry": "電腦及週邊設備業"
+    },
+    {
+      "code": "2321",
+      "price": 28.8,
+      "daily_gain_pct": 9.9,
+      "vol_ratio": 5.1,
+      "rsi": 97.1,
+      "reasons": [
+        "今日大漲 9.9%",
+        "爆量 5.1x"
+      ],
+      "name": "東訊",
+      "market": "上市",
+      "industry": "通信網路業"
+    },
+    {
+      "code": "3332",
+      "price": 73.1,
+      "daily_gain_pct": 9.9,
+      "vol_ratio": 20.97,
+      "rsi": 87.0,
+      "reasons": [
+        "今日大漲 9.9%",
+        "爆量 21.0x"
+      ],
+      "name": "幸康",
+      "market": "上櫃",
+      "industry": "電子零組件業"
+    },
+    {
+      "code": "3432",
+      "price": 15.1,
       "daily_gain_pct": 9.8,
-      "vol_ratio": 3.59,
-      "rsi": 64.2,
+      "vol_ratio": 3.22,
+      "rsi": 53.9,
       "reasons": [
         "今日大漲 9.8%",
-        "爆量 3.6x"
+        "爆量 3.2x"
       ],
-      "name": "永捷",
+      "name": "台端",
+      "market": "上市",
+      "industry": "電子零組件業"
+    },
+    {
+      "code": "8089",
+      "price": 29.0,
+      "daily_gain_pct": 9.8,
+      "vol_ratio": 2.97,
+      "rsi": 82.9,
+      "reasons": [
+        "今日大漲 9.8%",
+        "爆量 3.0x"
+      ],
+      "name": "康全電訊",
       "market": "上櫃",
-      "industry": "化學工業"
+      "industry": "通信網路業"
     },
     {
       "code": "2465",
-      "price": 103.0,
+      "price": 113.0,
       "daily_gain_pct": 9.7,
-      "vol_ratio": 3.06,
-      "rsi": 62.7,
+      "vol_ratio": 3.57,
+      "rsi": 71.1,
       "reasons": [
         "今日大漲 9.7%",
-        "爆量 3.1x"
+        "爆量 3.6x"
       ],
       "name": "麗臺",
       "market": "上市",
       "industry": "電腦及週邊設備業"
     },
     {
-      "code": "4577",
-      "price": 125.5,
-      "daily_gain_pct": 9.6,
-      "vol_ratio": 3.47,
-      "rsi": 74.4,
+      "code": "8099",
+      "price": 102.5,
+      "daily_gain_pct": 9.5,
+      "vol_ratio": 33.94,
+      "rsi": 94.1,
       "reasons": [
-        "今日大漲 9.6%",
-        "爆量 3.5x"
+        "今日大漲 9.5%",
+        "爆量 33.9x"
       ],
-      "name": "達航科技",
+      "name": "大世科",
       "market": "上櫃",
-      "industry": "其他電子業"
+      "industry": "資訊服務業"
     },
     {
-      "code": "7704",
-      "price": 80.0,
-      "daily_gain_pct": 9.0,
-      "vol_ratio": 44.01,
-      "rsi": 86.5,
+      "code": "4568",
+      "price": 47.15,
+      "daily_gain_pct": 8.8,
+      "vol_ratio": 3.73,
+      "rsi": 89.2,
       "reasons": [
-        "今日大漲 9.0%",
-        "爆量 44.0x"
-      ],
-      "name": "明遠精密",
-      "market": "上櫃",
-      "industry": "半導體業"
-    },
-    {
-      "code": "7710",
-      "price": 138.0,
-      "daily_gain_pct": 7.4,
-      "vol_ratio": 8.85,
-      "rsi": 16.7,
-      "reasons": [
-        "今日大漲 7.4%",
-        "爆量 8.8x"
-      ],
-      "name": "東擎科技",
-      "market": "上市",
-      "industry": "電腦及週邊設備業"
-    },
-    {
-      "code": "8045",
-      "price": 58.8,
-      "daily_gain_pct": 6.9,
-      "vol_ratio": 3.35,
-      "rsi": 64.2,
-      "reasons": [
-        "今日大漲 6.9%",
-        "爆量 3.4x"
-      ],
-      "name": "達運光電",
-      "market": "上市",
-      "industry": "通信網路業"
-    },
-    {
-      "code": "3708",
-      "price": 103.5,
-      "daily_gain_pct": 6.7,
-      "vol_ratio": 4.5,
-      "rsi": 65.4,
-      "reasons": [
-        "今日大漲 6.7%",
-        "爆量 4.5x"
-      ],
-      "name": "上緯投控",
-      "market": "上市",
-      "industry": "綠能環保"
-    },
-    {
-      "code": "4183",
-      "price": 14.5,
-      "daily_gain_pct": 6.6,
-      "vol_ratio": 3.66,
-      "rsi": 44.4,
-      "reasons": [
-        "今日大漲 6.6%",
+        "今日大漲 8.8%",
         "爆量 3.7x"
       ],
-      "name": "福永生技",
+      "name": "科際精密",
+      "market": "上櫃",
+      "industry": "電機機械"
+    },
+    {
+      "code": "8279",
+      "price": 85.8,
+      "daily_gain_pct": 8.3,
+      "vol_ratio": 10.44,
+      "rsi": 73.6,
+      "reasons": [
+        "今日大漲 8.3%",
+        "爆量 10.4x"
+      ],
+      "name": "生展",
       "market": "上櫃",
       "industry": "生技醫療業"
     },
     {
-      "code": "5601",
-      "price": 32.8,
-      "daily_gain_pct": 6.5,
-      "vol_ratio": 3.52,
-      "rsi": 72.4,
+      "code": "6873",
+      "price": 50.0,
+      "daily_gain_pct": 7.4,
+      "vol_ratio": 10.83,
+      "rsi": 21.2,
       "reasons": [
-        "今日大漲 6.5%",
-        "爆量 3.5x"
+        "今日大漲 7.4%",
+        "爆量 10.8x"
       ],
-      "name": "台聯櫃",
-      "market": "上櫃",
-      "industry": "航運業"
+      "name": "泓德能源",
+      "market": "上市",
+      "industry": "綠能環保"
     },
     {
-      "code": "6026",
-      "price": 16.35,
-      "daily_gain_pct": 6.5,
-      "vol_ratio": 5.55,
-      "rsi": 60.0,
+      "code": "6561",
+      "price": 341.0,
+      "daily_gain_pct": 7.2,
+      "vol_ratio": 6.35,
+      "rsi": 71.9,
       "reasons": [
-        "今日大漲 6.5%",
-        "爆量 5.5x"
+        "今日大漲 7.2%",
+        "爆量 6.3x"
       ],
-      "name": "福邦證",
+      "name": "是方",
       "market": "上櫃",
-      "industry": "金融保險業"
+      "industry": "通信網路業"
     },
     {
-      "code": "6425",
-      "price": 80.3,
-      "daily_gain_pct": 6.4,
-      "vol_ratio": 3.91,
-      "rsi": 59.7,
+      "code": "2491",
+      "price": 43.15,
+      "daily_gain_pct": 6.8,
+      "vol_ratio": 6.88,
+      "rsi": 59.6,
       "reasons": [
-        "今日大漲 6.4%",
-        "爆量 3.9x"
+        "今日大漲 6.8%",
+        "爆量 6.9x"
       ],
-      "name": "易發",
-      "market": "上櫃",
+      "name": "吉祥全",
+      "market": "上市",
+      "industry": "光電業"
+    },
+    {
+      "code": "4526",
+      "price": 52.8,
+      "daily_gain_pct": 6.3,
+      "vol_ratio": 8.71,
+      "rsi": 88.2,
+      "reasons": [
+        "今日大漲 6.3%",
+        "爆量 8.7x"
+      ],
+      "name": "東台",
+      "market": "上市",
       "industry": "電機機械"
+    },
+    {
+      "code": "8455",
+      "price": 26.45,
+      "daily_gain_pct": 6.2,
+      "vol_ratio": 4.72,
+      "rsi": 73.0,
+      "reasons": [
+        "今日大漲 6.2%",
+        "爆量 4.7x"
+      ],
+      "name": "大拓-KY",
+      "market": "上櫃",
+      "industry": "其他電子業"
     }
   ]
 }
