@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T21:51:02.764634+08:00",
+  "generated_at": "2026-10-31T21:13:56.707349+08:00",
   "total_scanned": 79,
   "hits": [
     {
@@ -8,14 +8,14 @@
       "sector": "被動元件",
       "industry": "電子零組件業",
       "price": 50.599998474121094,
-      "grade": "hot",
+      "grade": "watch",
       "tech_score": 100,
       "trend_score": 25,
       "one_liner": "受益於 被動元件升級，位於供應鏈中游，精密電阻製造。",
       "rsi": 56.4,
       "vol_ratio": 1.45,
       "from_low_pct": 30.4,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "4950",
@@ -23,14 +23,14 @@
       "sector": "印刷電路",
       "industry": "鋼鐵工業",
       "price": 16.0,
-      "grade": "hot",
+      "grade": "watch",
       "tech_score": 100,
       "trend_score": 25,
       "one_liner": "受益於 AI 伺服器、電動車，位於供應鏈上游，高頻低損耗 CCL 材料。",
       "rsi": 53.1,
       "vol_ratio": 1.57,
       "from_low_pct": 60.0,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "6269",
@@ -38,14 +38,14 @@
       "sector": "印刷電路",
       "industry": "電子零組件業",
       "price": 69.0,
-      "grade": "hot",
+      "grade": "watch",
       "tech_score": 80,
       "trend_score": 15,
       "one_liner": "受益於 5G、AI 手機，位於供應鏈中游，FPC 柔性電路板技術領先。",
       "rsi": 54.6,
       "vol_ratio": 1.1,
       "from_low_pct": 50.0,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "4938",
@@ -53,14 +53,14 @@
       "sector": "連接元件",
       "industry": "電腦及週邊設備業",
       "price": 102.5,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 75,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 68.0,
       "vol_ratio": 0.49,
       "from_low_pct": 56.8,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "2355",
@@ -68,14 +68,14 @@
       "sector": "電源供應",
       "industry": "電子零組件業",
       "price": 51.0,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 65,
       "trend_score": 0,
       "one_liner": "受益於 AI 伺服器、車用電子，位於供應鏈中游，高階多層 PCB。",
       "rsi": 62.7,
       "vol_ratio": 0.89,
       "from_low_pct": 78.3,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "2393",
@@ -90,7 +90,7 @@
       "rsi": 45.2,
       "vol_ratio": 0.87,
       "from_low_pct": 43.9,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3268",
@@ -101,11 +101,11 @@
       "grade": "observe",
       "tech_score": 45,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 40.6,
-      "vol_ratio": 0.32,
+      "vol_ratio": 0.31,
       "from_low_pct": 58.1,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3010",
@@ -120,7 +120,7 @@
       "rsi": 47.5,
       "vol_ratio": 0.56,
       "from_low_pct": 51.5,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3483",
@@ -135,7 +135,7 @@
       "rsi": 56.3,
       "vol_ratio": 0.51,
       "from_low_pct": 24.8,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3036",
@@ -150,7 +150,7 @@
       "rsi": 40.9,
       "vol_ratio": 0.74,
       "from_low_pct": 63.1,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     }
   ]
 }

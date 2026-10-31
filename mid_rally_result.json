@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T21:58:04.441286+08:00",
+  "generated_at": "2026-10-31T21:17:44.388385+08:00",
   "total_scanned": 2260,
   "hits": [
     {
@@ -46,7 +46,7 @@
       "code": "2379",
       "price": 803.0,
       "rsi": 69.0,
-      "vol_ratio": 1.41,
+      "vol_ratio": 1.39,
       "from_low_pct": 86.9,
       "adx": 33.5,
       "reasons": [
@@ -66,7 +66,7 @@
       "code": "2535",
       "price": 93.0,
       "rsi": 56.9,
-      "vol_ratio": 1.38,
+      "vol_ratio": 1.37,
       "from_low_pct": 64.2,
       "adx": 20.5,
       "reasons": [
