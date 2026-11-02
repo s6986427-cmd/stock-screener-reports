@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:57:11.185173+08:00",
+  "generated_at": "2026-11-03T00:43:36.298009+08:00",
   "total_scanned": 79,
   "hits": [
     {
@@ -13,23 +13,8 @@
       "trend_score": 25,
       "one_liner": "受益於 被動元件升級，位於供應鏈中游，精密電阻製造。",
       "rsi": 56.4,
-      "vol_ratio": 1.45,
+      "vol_ratio": 1.55,
       "from_low_pct": 30.4,
-      "inst_signal": "—"
-    },
-    {
-      "code": "4950",
-      "name": "金耘國際",
-      "sector": "印刷電路",
-      "industry": "鋼鐵工業",
-      "price": 16.0,
-      "grade": "watch",
-      "tech_score": 100,
-      "trend_score": 25,
-      "one_liner": "受益於 AI 伺服器、電動車，位於供應鏈上游，高頻低損耗 CCL 材料。",
-      "rsi": 53.1,
-      "vol_ratio": 1.57,
-      "from_low_pct": 60.0,
       "inst_signal": "—"
     },
     {
@@ -43,7 +28,7 @@
       "trend_score": 15,
       "one_liner": "受益於 5G、AI 手機，位於供應鏈中游，FPC 柔性電路板技術領先。",
       "rsi": 54.6,
-      "vol_ratio": 1.1,
+      "vol_ratio": 1.19,
       "from_low_pct": 50.0,
       "inst_signal": "—"
     },
@@ -58,7 +43,7 @@
       "trend_score": 0,
       "one_liner": "—",
       "rsi": 68.0,
-      "vol_ratio": 0.49,
+      "vol_ratio": 0.61,
       "from_low_pct": 56.8,
       "inst_signal": "—"
     },
@@ -73,7 +58,7 @@
       "trend_score": 0,
       "one_liner": "受益於 AI 伺服器、車用電子，位於供應鏈中游，高階多層 PCB。",
       "rsi": 62.7,
-      "vol_ratio": 0.89,
+      "vol_ratio": 0.97,
       "from_low_pct": 78.3,
       "inst_signal": "—"
     },
@@ -88,7 +73,7 @@
       "trend_score": 0,
       "one_liner": "受益於 Mini LED、車用照明，位於供應鏈中游，LED 封裝規模龐大。",
       "rsi": 45.2,
-      "vol_ratio": 0.87,
+      "vol_ratio": 1.03,
       "from_low_pct": 43.9,
       "inst_signal": "—"
     },
@@ -103,7 +88,7 @@
       "trend_score": 0,
       "one_liner": "—",
       "rsi": 40.6,
-      "vol_ratio": 0.31,
+      "vol_ratio": 0.39,
       "from_low_pct": 58.1,
       "inst_signal": "—"
     },
@@ -118,8 +103,8 @@
       "trend_score": 0,
       "one_liner": "受益於 半導體材料通路、AI 材料，位於供應鏈下游，半導體化學品與材料通路龍頭。",
       "rsi": 47.5,
-      "vol_ratio": 0.56,
-      "from_low_pct": 51.5,
+      "vol_ratio": 0.65,
+      "from_low_pct": 49.5,
       "inst_signal": "—"
     },
     {
@@ -133,7 +118,7 @@
       "trend_score": 0,
       "one_liner": "受益於 嵌入式記憶體 IP、AIoT 晶片，位於供應鏈上游，OTP/MTP 嵌入式記憶體 IP 全球龍頭。",
       "rsi": 56.3,
-      "vol_ratio": 0.51,
+      "vol_ratio": 0.57,
       "from_low_pct": 24.8,
       "inst_signal": "—"
     },
@@ -148,7 +133,7 @@
       "trend_score": 0,
       "one_liner": "受益於 AI 半導體通路、記憶體通路，位於供應鏈下游，台灣最大半導體通路商。",
       "rsi": 40.9,
-      "vol_ratio": 0.74,
+      "vol_ratio": 0.95,
       "from_low_pct": 63.1,
       "inst_signal": "—"
     }
