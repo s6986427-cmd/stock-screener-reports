@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-11-03T00:48:44.480248+08:00",
+  "generated_at": "2026-11-03T23:07:53.142033+08:00",
   "total_scanned": 2262,
   "hits": [
     {
-      "code": "3321",
-      "price": 20.1,
-      "rsi": 64.4,
-      "vol_ratio": 4.36,
+      "code": "3379",
+      "price": 32.5,
+      "rsi": 71.2,
+      "vol_ratio": 3.9,
       "from_low_pct": 35.4,
-      "adx_at_cross": 13.3,
+      "adx_at_cross": 10.5,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 13，趨勢剛形成）",
+        "DMI 翻多（ADX 11，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 64（健康區）",
+        "RSI 71（健康區）",
         "距 52 週低點 35%（初期）",
-        "量增 4.4x"
+        "量增 3.9x"
       ],
-      "name": "同泰",
-      "market": "上市",
-      "industry": "電子零組件業"
+      "name": "彬台",
+      "market": "上櫃",
+      "industry": "電機機械"
     },
     {
-      "code": "1439",
-      "price": 29.4,
-      "rsi": 68.0,
-      "vol_ratio": 1.94,
-      "from_low_pct": 27.3,
-      "adx_at_cross": 17.3,
+      "code": "1777",
+      "price": 77.2,
+      "rsi": 59.3,
+      "vol_ratio": 1.48,
+      "from_low_pct": 16.0,
+      "adx_at_cross": 18.8,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 17，趨勢剛形成）",
+        "DMI 翻多（ADX 19，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 68（健康區）",
-        "距 52 週低點 27%（初期）",
-        "量增 1.9x"
+        "RSI 59（健康區）",
+        "距 52 週低點 16%（初期）",
+        "量增 1.5x"
       ],
-      "name": "雋揚",
-      "market": "上市",
-      "industry": "建材營造業"
+      "name": "生泰",
+      "market": "上櫃",
+      "industry": "生技醫療業"
     },
     {
       "code": "6997",
-      "price": 69.7,
-      "rsi": 64.2,
-      "vol_ratio": 1.32,
-      "from_low_pct": 11.7,
+      "price": 71.5,
+      "rsi": 73.5,
+      "vol_ratio": 1.46,
+      "from_low_pct": 14.6,
       "adx_at_cross": 11.9,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 12，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 64（健康區）",
-        "距 52 週低點 12%（初期）",
-        "量增 1.3x"
+        "RSI 74（健康區）",
+        "距 52 週低點 15%（初期）",
+        "量增 1.5x"
       ],
       "name": "博弘",
       "market": "上櫃",
