@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-11-03T23:07:53.142033+08:00",
-  "total_scanned": 2262,
+  "generated_at": "2026-11-04T23:06:21.560746+08:00",
+  "total_scanned": 2261,
   "hits": [
     {
-      "code": "3379",
-      "price": 32.5,
-      "rsi": 71.2,
-      "vol_ratio": 3.9,
-      "from_low_pct": 35.4,
-      "adx_at_cross": 10.5,
+      "code": "4562",
+      "price": 33.8,
+      "rsi": 61.0,
+      "vol_ratio": 4.28,
+      "from_low_pct": 21.6,
+      "adx_at_cross": 14.3,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 11，趨勢剛形成）",
+        "DMI 翻多（ADX 14，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 71（健康區）",
-        "距 52 週低點 35%（初期）",
-        "量增 3.9x"
+        "RSI 61（健康區）",
+        "距 52 週低點 22%（初期）",
+        "量增 4.3x"
       ],
-      "name": "彬台",
-      "market": "上櫃",
+      "name": "穎漢",
+      "market": "上市",
       "industry": "電機機械"
     },
     {
+      "code": "2849",
+      "price": 16.0,
+      "rsi": 58.5,
+      "vol_ratio": 1.69,
+      "from_low_pct": 30.0,
+      "adx_at_cross": 15.9,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 16，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 58（健康區）",
+        "距 52 週低點 30%（初期）",
+        "量增 1.7x"
+      ],
+      "name": "安泰銀",
+      "market": "上市",
+      "industry": "金融保險業"
+    },
+    {
       "code": "1777",
-      "price": 77.2,
-      "rsi": 59.3,
-      "vol_ratio": 1.48,
-      "from_low_pct": 16.0,
+      "price": 77.3,
+      "rsi": 57.9,
+      "vol_ratio": 1.39,
+      "from_low_pct": 16.1,
       "adx_at_cross": 18.8,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 19，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 59（健康區）",
+        "RSI 58（健康區）",
         "距 52 週低點 16%（初期）",
-        "量增 1.5x"
+        "量增 1.4x"
       ],
       "name": "生泰",
       "market": "上櫃",
       "industry": "生技醫療業"
-    },
-    {
-      "code": "6997",
-      "price": 71.5,
-      "rsi": 73.5,
-      "vol_ratio": 1.46,
-      "from_low_pct": 14.6,
-      "adx_at_cross": 11.9,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 12，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 74（健康區）",
-        "距 52 週低點 15%（初期）",
-        "量增 1.5x"
-      ],
-      "name": "博弘",
-      "market": "上櫃",
-      "industry": "數位雲端"
     }
   ]
 }
