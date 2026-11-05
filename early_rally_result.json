@@ -1,66 +1,46 @@
 {
-  "generated_at": "2026-11-04T23:06:21.560746+08:00",
+  "generated_at": "2026-11-05T23:17:39.744262+08:00",
   "total_scanned": 2261,
   "hits": [
     {
-      "code": "4562",
-      "price": 33.8,
-      "rsi": 61.0,
-      "vol_ratio": 4.28,
-      "from_low_pct": 21.6,
-      "adx_at_cross": 14.3,
+      "code": "3379",
+      "price": 32.2,
+      "rsi": 65.7,
+      "vol_ratio": 5.19,
+      "from_low_pct": 34.2,
+      "adx_at_cross": 10.5,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 14，趨勢剛形成）",
+        "DMI 翻多（ADX 11，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 61（健康區）",
-        "距 52 週低點 22%（初期）",
-        "量增 4.3x"
+        "RSI 66（健康區）",
+        "距 52 週低點 34%（初期）",
+        "量增 5.2x"
       ],
-      "name": "穎漢",
-      "market": "上市",
+      "name": "彬台",
+      "market": "上櫃",
       "industry": "電機機械"
     },
     {
       "code": "2849",
-      "price": 16.0,
-      "rsi": 58.5,
-      "vol_ratio": 1.69,
-      "from_low_pct": 30.0,
+      "price": 16.05,
+      "rsi": 54.2,
+      "vol_ratio": 1.65,
+      "from_low_pct": 30.4,
       "adx_at_cross": 15.9,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 16，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 58（健康區）",
+        "RSI 54（健康區）",
         "距 52 週低點 30%（初期）",
-        "量增 1.7x"
+        "量增 1.6x"
       ],
       "name": "安泰銀",
       "market": "上市",
       "industry": "金融保險業"
-    },
-    {
-      "code": "1777",
-      "price": 77.3,
-      "rsi": 57.9,
-      "vol_ratio": 1.39,
-      "from_low_pct": 16.1,
-      "adx_at_cross": 18.8,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 19，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 58（健康區）",
-        "距 52 週低點 16%（初期）",
-        "量增 1.4x"
-      ],
-      "name": "生泰",
-      "market": "上櫃",
-      "industry": "生技醫療業"
     }
   ]
 }
