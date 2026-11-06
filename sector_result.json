@@ -1,35 +1,20 @@
 {
-  "generated_at": "2026-11-05T23:05:36.061090+08:00",
+  "generated_at": "2026-11-06T22:47:23.091599+08:00",
   "total_scanned": 79,
   "hits": [
-    {
-      "code": "4938",
-      "name": "和碩",
-      "sector": "連接元件",
-      "industry": "電腦及週邊設備業",
-      "price": 97.19999694824219,
-      "grade": "observe",
-      "tech_score": 45,
-      "trend_score": 0,
-      "one_liner": "三大法人買超。",
-      "rsi": 48.1,
-      "vol_ratio": 0.58,
-      "from_low_pct": 48.7,
-      "inst_signal": "買超"
-    },
     {
       "code": "2355",
       "name": "敬鵬",
       "sector": "電源供應",
       "industry": "電子零組件業",
-      "price": 48.04999923706055,
+      "price": 47.25,
       "grade": "observe",
       "tech_score": 35,
       "trend_score": 0,
       "one_liner": "受益於 AI 伺服器、車用電子，位於供應鏈中游，高階多層 PCB。",
-      "rsi": 36.0,
-      "vol_ratio": 0.76,
-      "from_low_pct": 67.9,
+      "rsi": 37.7,
+      "vol_ratio": 0.79,
+      "from_low_pct": 65.1,
       "inst_signal": "買超"
     }
   ]
