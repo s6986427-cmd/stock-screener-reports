@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T22:47:23.091599+08:00",
+  "generated_at": "2026-11-07T21:40:31.573543+08:00",
   "total_scanned": 79,
   "hits": [
     {
@@ -15,7 +15,7 @@
       "rsi": 37.7,
       "vol_ratio": 0.79,
       "from_low_pct": 65.1,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     }
   ]
 }
