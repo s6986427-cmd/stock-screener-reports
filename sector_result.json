@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:59:30.069320+08:00",
+  "generated_at": "2026-11-10T01:00:11.780769+08:00",
   "total_scanned": 79,
   "hits": [
     {
@@ -13,7 +13,7 @@
       "trend_score": 0,
       "one_liner": "受益於 AI 伺服器、車用電子，位於供應鏈中游，高階多層 PCB。",
       "rsi": 37.7,
-      "vol_ratio": 0.79,
+      "vol_ratio": 0.81,
       "from_low_pct": 65.1,
       "inst_signal": "—"
     }
