@@ -1,5 +1,26 @@
 {
-  "generated_at": "2026-11-10T23:33:37.579223+08:00",
-  "total_scanned": 2260,
-  "hits": []
+  "generated_at": "2026-11-11T23:15:59.245084+08:00",
+  "total_scanned": 2261,
+  "hits": [
+    {
+      "code": "2643",
+      "price": 67.6,
+      "rsi": 63.8,
+      "vol_ratio": 1.3,
+      "from_low_pct": 17.2,
+      "adx_at_cross": 17.9,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 18，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 64（健康區）",
+        "距 52 週低點 17%（初期）",
+        "量增 1.3x"
+      ],
+      "name": "捷迅",
+      "market": "上櫃",
+      "industry": "航運業"
+    }
+  ]
 }
