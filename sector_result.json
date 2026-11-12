@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T23:02:20.728829+08:00",
+  "generated_at": "2026-11-12T23:42:21.452755+08:00",
   "total_scanned": 79,
   "hits": [
     {
@@ -7,14 +7,29 @@
       "name": "欣陸",
       "sector": "光電設備",
       "industry": "建材營造業",
-      "price": 23.850000381469727,
+      "price": 23.100000381469727,
+      "grade": "watch",
+      "tech_score": 90,
+      "trend_score": 0,
+      "one_liner": "三大法人買超。",
+      "rsi": 66.2,
+      "vol_ratio": 1.84,
+      "from_low_pct": 21.1,
+      "inst_signal": "買超"
+    },
+    {
+      "code": "3060",
+      "name": "銘異",
+      "sector": "網通設備",
+      "industry": "電腦及週邊設備業",
+      "price": 26.799999237060547,
       "grade": "watch",
       "tech_score": 70,
       "trend_score": 0,
       "one_liner": "三大法人買超。",
-      "rsi": 74.6,
-      "vol_ratio": 1.81,
-      "from_low_pct": 25.1,
+      "rsi": 50.2,
+      "vol_ratio": 2.3,
+      "from_low_pct": 23.5,
       "inst_signal": "買超"
     },
     {
@@ -22,14 +37,14 @@
       "name": "泰博",
       "sector": "網通設備",
       "industry": "生技醫療業",
-      "price": 130.0,
+      "price": 129.0,
       "grade": "watch",
       "tech_score": 60,
       "trend_score": 0,
       "one_liner": "受益於 AI 儲存、NAS，位於供應鏈中游，企業級 NAS 儲存解決方案。",
-      "rsi": 48.3,
-      "vol_ratio": 1.46,
-      "from_low_pct": 24.3,
+      "rsi": 41.4,
+      "vol_ratio": 1.36,
+      "from_low_pct": 23.4,
       "inst_signal": "買超"
     },
     {
@@ -37,14 +52,29 @@
       "name": "台郡",
       "sector": "印刷電路",
       "industry": "電子零組件業",
-      "price": 79.5,
+      "price": 76.5,
       "grade": "watch",
       "tech_score": 55,
       "trend_score": 15,
       "one_liner": "受益於 5G、AI 手機，位於供應鏈中游，FPC 柔性電路板技術領先。",
-      "rsi": 42.8,
-      "vol_ratio": 0.67,
-      "from_low_pct": 72.8,
+      "rsi": 47.5,
+      "vol_ratio": 0.72,
+      "from_low_pct": 66.3,
+      "inst_signal": "買超"
+    },
+    {
+      "code": "2340",
+      "name": "台亞",
+      "sector": "光電設備",
+      "industry": "半導體業",
+      "price": 40.04999923706055,
+      "grade": "observe",
+      "tech_score": 35,
+      "trend_score": 0,
+      "one_liner": "受益於 車用光電、工業光電，位於供應鏈上游，化合物半導體（GaAs/InP）磊晶。",
+      "rsi": 40.3,
+      "vol_ratio": 0.62,
+      "from_low_pct": 74.9,
       "inst_signal": "買超"
     }
   ]
