@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-13T23:12:33.280350+08:00",
-  "total_scanned": 2263,
+  "generated_at": "2026-11-14T21:57:32.375649+08:00",
+  "total_scanned": 2262,
   "hits": [
     {
       "code": "3713",
       "price": 16.6,
       "rsi": 69.9,
-      "vol_ratio": 3.9,
+      "vol_ratio": 3.89,
       "from_low_pct": 28.2,
       "adx_at_cross": 14.7,
       "reasons": [
@@ -66,7 +66,7 @@
       "code": "5212",
       "price": 51.6,
       "rsi": 68.9,
-      "vol_ratio": 2.26,
+      "vol_ratio": 2.24,
       "from_low_pct": 16.9,
       "adx_at_cross": 17.6,
       "reasons": [
@@ -76,7 +76,7 @@
         "KD 中低檔黃金交叉",
         "RSI 69（健康區）",
         "距 52 週低點 17%（初期）",
-        "量增 2.3x"
+        "量增 2.2x"
       ],
       "name": "凌網",
       "market": "上櫃",
@@ -86,7 +86,7 @@
       "code": "4432",
       "price": 15.85,
       "rsi": 65.0,
-      "vol_ratio": 1.9,
+      "vol_ratio": 1.89,
       "from_low_pct": 15.2,
       "adx_at_cross": 11.1,
       "reasons": [
@@ -126,7 +126,7 @@
       "code": "6508",
       "price": 27.65,
       "rsi": 57.5,
-      "vol_ratio": 1.57,
+      "vol_ratio": 1.54,
       "from_low_pct": 21.8,
       "adx_at_cross": 21.7,
       "reasons": [
@@ -136,7 +136,7 @@
         "KD 中低檔黃金交叉",
         "RSI 57（健康區）",
         "距 52 週低點 22%（初期）",
-        "量增 1.6x"
+        "量增 1.5x"
       ],
       "name": "惠光",
       "market": "上櫃",

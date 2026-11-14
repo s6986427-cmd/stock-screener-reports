@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T23:02:30.555513+08:00",
+  "generated_at": "2026-11-14T21:53:35.762645+08:00",
   "total_scanned": 79,
   "hits": [
     {
@@ -8,14 +8,14 @@
       "sector": "印刷電路",
       "industry": "電子零組件業",
       "price": 80.5,
-      "grade": "hot",
+      "grade": "watch",
       "tech_score": 65,
       "trend_score": 15,
       "one_liner": "受益於 5G、AI 手機，位於供應鏈中游，FPC 柔性電路板技術領先。",
       "rsi": 51.9,
-      "vol_ratio": 0.74,
+      "vol_ratio": 0.73,
       "from_low_pct": 75.0,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3703",
@@ -23,14 +23,14 @@
       "sector": "光電設備",
       "industry": "建材營造業",
       "price": 23.350000381469727,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 90,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 67.3,
       "vol_ratio": 1.8,
       "from_low_pct": 22.5,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3019",
@@ -38,14 +38,14 @@
       "sector": "光電設備",
       "industry": "光電業",
       "price": 138.0,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 70,
       "trend_score": 0,
       "one_liner": "受益於 AR/VR 光學、車用鏡頭，位於供應鏈中游，精密光學鏡頭製造。",
       "rsi": 57.4,
       "vol_ratio": 1.81,
       "from_low_pct": 19.5,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "3060",
@@ -53,14 +53,14 @@
       "sector": "網通設備",
       "industry": "電腦及週邊設備業",
       "price": 27.399999618530273,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 70,
       "trend_score": 0,
-      "one_liner": "三大法人買超。",
+      "one_liner": "—",
       "rsi": 52.5,
       "vol_ratio": 1.93,
       "from_low_pct": 26.3,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "6161",
@@ -68,14 +68,14 @@
       "sector": "印刷電路",
       "industry": "電腦及週邊設備業",
       "price": 48.79999923706055,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 70,
       "trend_score": 0,
       "one_liner": "受益於 工業電子，位於供應鏈中游，特殊規格 PCB。",
       "rsi": 62.2,
       "vol_ratio": 1.15,
       "from_low_pct": 28.7,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     },
     {
       "code": "4736",
@@ -83,14 +83,14 @@
       "sector": "網通設備",
       "industry": "生技醫療業",
       "price": 129.0,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 60,
       "trend_score": 0,
       "one_liner": "受益於 AI 儲存、NAS，位於供應鏈中游，企業級 NAS 儲存解決方案。",
       "rsi": 41.4,
-      "vol_ratio": 1.13,
+      "vol_ratio": 1.12,
       "from_low_pct": 23.4,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     }
   ]
 }
