@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T22:28:14.377778+08:00",
+  "generated_at": "2026-11-17T00:44:25.978216+08:00",
   "total_scanned": 79,
   "hits": [
     {
@@ -13,7 +13,7 @@
       "trend_score": 15,
       "one_liner": "受益於 5G、AI 手機，位於供應鏈中游，FPC 柔性電路板技術領先。",
       "rsi": 51.9,
-      "vol_ratio": 0.73,
+      "vol_ratio": 0.79,
       "from_low_pct": 75.0,
       "inst_signal": "—"
     },
@@ -28,7 +28,7 @@
       "trend_score": 0,
       "one_liner": "—",
       "rsi": 67.3,
-      "vol_ratio": 1.8,
+      "vol_ratio": 1.49,
       "from_low_pct": 22.5,
       "inst_signal": "—"
     },
@@ -43,7 +43,7 @@
       "trend_score": 0,
       "one_liner": "受益於 AR/VR 光學、車用鏡頭，位於供應鏈中游，精密光學鏡頭製造。",
       "rsi": 57.4,
-      "vol_ratio": 1.81,
+      "vol_ratio": 1.61,
       "from_low_pct": 19.5,
       "inst_signal": "—"
     },
@@ -58,7 +58,7 @@
       "trend_score": 0,
       "one_liner": "—",
       "rsi": 52.5,
-      "vol_ratio": 1.93,
+      "vol_ratio": 1.98,
       "from_low_pct": 26.3,
       "inst_signal": "—"
     },
@@ -73,7 +73,7 @@
       "trend_score": 0,
       "one_liner": "受益於 工業電子，位於供應鏈中游，特殊規格 PCB。",
       "rsi": 62.2,
-      "vol_ratio": 1.15,
+      "vol_ratio": 1.26,
       "from_low_pct": 28.7,
       "inst_signal": "—"
     },
@@ -88,7 +88,7 @@
       "trend_score": 0,
       "one_liner": "受益於 AI 儲存、NAS，位於供應鏈中游，企業級 NAS 儲存解決方案。",
       "rsi": 41.4,
-      "vol_ratio": 1.12,
+      "vol_ratio": 1.11,
       "from_low_pct": 23.4,
       "inst_signal": "—"
     }
