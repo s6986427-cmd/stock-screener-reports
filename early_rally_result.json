@@ -1,93 +1,73 @@
 {
-  "generated_at": "2026-11-18T00:43:01.940489+08:00",
+  "generated_at": "2026-11-19T00:40:17.849563+08:00",
   "total_scanned": 2264,
   "hits": [
     {
-      "code": "3570",
-      "price": 196.0,
-      "rsi": 73.9,
-      "vol_ratio": 5.66,
-      "from_low_pct": 28.8,
-      "adx_at_cross": 22.2,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 22，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 74（健康區）",
-        "距 52 週低點 29%（初期）",
-        "量增 5.7x"
-      ],
-      "name": "大塚",
-      "market": "上櫃",
-      "industry": "資訊服務業"
-    },
-    {
-      "code": "7819",
-      "price": 44.0,
-      "rsi": 69.3,
-      "vol_ratio": 3.47,
-      "from_low_pct": 43.1,
-      "adx_at_cross": 14.1,
+      "code": "6884",
+      "price": 33.65,
+      "rsi": 58.1,
+      "vol_ratio": 4.77,
+      "from_low_pct": 14.5,
+      "adx_at_cross": 14.2,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 14，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 69（健康區）",
-        "距 52 週低點 43%（初期）",
-        "量增 3.5x"
+        "RSI 58（健康區）",
+        "距 52 週低點 14%（初期）",
+        "量增 4.8x"
       ],
-      "name": "精誠金融",
+      "name": "海柏特",
       "market": "上櫃",
       "industry": "資訊服務業"
     },
     {
-      "code": "3713",
-      "price": 16.8,
-      "rsi": 73.2,
-      "vol_ratio": 2.69,
-      "from_low_pct": 29.7,
-      "adx_at_cross": 14.7,
+      "code": "8415",
+      "price": 41.35,
+      "rsi": 71.0,
+      "vol_ratio": 4.26,
+      "from_low_pct": 29.1,
+      "adx_at_cross": 23.1,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 15，趨勢剛形成）",
+        "DMI 翻多（ADX 23，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 73（健康區）",
-        "距 52 週低點 30%（初期）",
-        "量增 2.7x"
+        "RSI 71（健康區）",
+        "距 52 週低點 29%（初期）",
+        "量增 4.3x"
       ],
-      "name": "新晶投控",
+      "name": "大國鋼",
       "market": "上櫃",
-      "industry": "綠能環保"
+      "industry": "鋼鐵工業"
     },
     {
-      "code": "8416",
-      "price": 176.0,
-      "rsi": 61.2,
-      "vol_ratio": 2.68,
-      "from_low_pct": 10.9,
-      "adx_at_cross": 14.8,
+      "code": "1323",
+      "price": 22.35,
+      "rsi": 63.2,
+      "vol_ratio": 2.15,
+      "from_low_pct": 27.3,
+      "adx_at_cross": 19.3,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 15，趨勢剛形成）",
+        "DMI 翻多（ADX 19，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 61（健康區）",
-        "距 52 週低點 11%（初期）",
-        "量增 2.7x"
+        "RSI 63（健康區）",
+        "距 52 週低點 27%（初期）",
+        "量增 2.2x"
       ],
-      "name": "實威",
-      "market": "上櫃",
-      "industry": "資訊服務業"
+      "name": "永裕",
+      "market": "上市",
+      "industry": "塑膠工業"
     },
     {
       "code": "5206",
-      "price": 25.4,
-      "rsi": 73.8,
-      "vol_ratio": 2.28,
-      "from_low_pct": 29.4,
+      "price": 25.55,
+      "rsi": 74.3,
+      "vol_ratio": 1.97,
+      "from_low_pct": 30.2,
       "adx_at_cross": 11.8,
       "reasons": [
         "日/週/月三線多頭排列",
@@ -95,52 +75,72 @@
         "DMI 翻多（ADX 12，趨勢剛形成）",
         "KD 中低檔黃金交叉",
         "RSI 74（健康區）",
-        "距 52 週低點 29%（初期）",
-        "量增 2.3x"
+        "距 52 週低點 30%（初期）",
+        "量增 2.0x"
       ],
       "name": "坤悅",
       "market": "上櫃",
       "industry": "建材營造業"
     },
     {
+      "code": "3713",
+      "price": 16.75,
+      "rsi": 71.4,
+      "vol_ratio": 1.8,
+      "from_low_pct": 29.3,
+      "adx_at_cross": 14.7,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 15，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 71（健康區）",
+        "距 52 週低點 29%（初期）",
+        "量增 1.8x"
+      ],
+      "name": "新晶投控",
+      "market": "上櫃",
+      "industry": "綠能環保"
+    },
+    {
+      "code": "2852",
+      "price": 28.85,
+      "rsi": 62.0,
+      "vol_ratio": 1.54,
+      "from_low_pct": 20.1,
+      "adx_at_cross": 21.3,
+      "reasons": [
+        "日/週/月三線多頭排列",
+        "MACD 近12日黃金交叉",
+        "DMI 翻多（ADX 21，趨勢剛形成）",
+        "KD 中低檔黃金交叉",
+        "RSI 62（健康區）",
+        "距 52 週低點 20%（初期）",
+        "量增 1.5x"
+      ],
+      "name": "第一保",
+      "market": "上市",
+      "industry": "金融保險業"
+    },
+    {
       "code": "4432",
-      "price": 15.8,
-      "rsi": 58.3,
-      "vol_ratio": 2.14,
-      "from_low_pct": 14.8,
+      "price": 15.85,
+      "rsi": 62.9,
+      "vol_ratio": 1.21,
+      "from_low_pct": 15.2,
       "adx_at_cross": 11.1,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
         "DMI 翻多（ADX 11，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 58（健康區）",
+        "RSI 63（健康區）",
         "距 52 週低點 15%（初期）",
-        "量增 2.1x"
+        "量增 1.2x"
       ],
       "name": "銘旺實",
       "market": "上櫃",
       "industry": "紡織纖維"
-    },
-    {
-      "code": "6589",
-      "price": 53.2,
-      "rsi": 62.6,
-      "vol_ratio": 1.8,
-      "from_low_pct": 31.2,
-      "adx_at_cross": 16.1,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 16，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 63（健康區）",
-        "距 52 週低點 31%（初期）",
-        "量增 1.8x"
-      ],
-      "name": "台康生技",
-      "market": "上市",
-      "industry": "生技醫療業"
     }
   ]
 }
