@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-19T00:22:15.713476+08:00",
-  "total_scanned": 58,
+  "generated_at": "2026-11-20T00:13:37.043303+08:00",
+  "total_scanned": 79,
   "hits": [
     {
       "code": "3703",
       "name": "欣陸",
       "sector": "光電設備",
       "industry": "建材營造業",
-      "price": 22.75,
+      "price": 22.700000762939453,
       "grade": "observe",
       "tech_score": 65,
       "trend_score": 0,
       "one_liner": "—",
-      "rsi": 64.8,
-      "vol_ratio": 0.79,
-      "from_low_pct": 19.3,
+      "rsi": 65.3,
+      "vol_ratio": 0.74,
+      "from_low_pct": 19.0,
       "inst_signal": "—"
     }
   ]
