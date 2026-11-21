@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:56:12.686291+08:00",
+  "generated_at": "2026-11-21T23:02:12.840671+08:00",
   "total_scanned": 79,
   "hits": [
     {
@@ -8,14 +8,14 @@
       "sector": "電源供應",
       "industry": "電子零組件業",
       "price": 48.75,
-      "grade": "watch",
+      "grade": "observe",
       "tech_score": 60,
       "trend_score": 0,
       "one_liner": "受益於 AI 伺服器、車用電子，位於供應鏈中游，高階多層 PCB。",
       "rsi": 47.3,
       "vol_ratio": 1.77,
       "from_low_pct": 68.4,
-      "inst_signal": "買超"
+      "inst_signal": "—"
     }
   ]
 }

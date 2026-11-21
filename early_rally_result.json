@@ -1,66 +1,26 @@
 {
-  "generated_at": "2026-11-21T00:07:56.823853+08:00",
-  "total_scanned": 2263,
+  "generated_at": "2026-11-21T23:07:25.609677+08:00",
+  "total_scanned": 2262,
   "hits": [
     {
-      "code": "1323",
-      "price": 22.55,
-      "rsi": 66.2,
-      "vol_ratio": 2.51,
+      "code": "6614",
+      "price": 40.7,
+      "rsi": 64.0,
+      "vol_ratio": 2.81,
       "from_low_pct": 28.4,
-      "adx_at_cross": 19.3,
+      "adx_at_cross": 23.5,
       "reasons": [
         "日/週/月三線多頭排列",
         "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 19，趨勢剛形成）",
+        "DMI 翻多（ADX 24，趨勢剛形成）",
         "KD 中低檔黃金交叉",
-        "RSI 66（健康區）",
+        "RSI 64（健康區）",
         "距 52 週低點 28%（初期）",
-        "量增 2.5x"
+        "量增 2.8x"
       ],
-      "name": "永裕",
+      "name": "資拓宏宇",
       "market": "上市",
-      "industry": "塑膠工業"
-    },
-    {
-      "code": "5511",
-      "price": 71.3,
-      "rsi": 57.7,
-      "vol_ratio": 1.62,
-      "from_low_pct": 44.4,
-      "adx_at_cross": 20.7,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 21，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 58（健康區）",
-        "距 52 週低點 44%（初期）",
-        "量增 1.6x"
-      ],
-      "name": "德昌",
-      "market": "上櫃",
-      "industry": "建材營造業"
-    },
-    {
-      "code": "1438",
-      "price": 22.1,
-      "rsi": 69.0,
-      "vol_ratio": 1.55,
-      "from_low_pct": 22.9,
-      "adx_at_cross": 9.6,
-      "reasons": [
-        "日/週/月三線多頭排列",
-        "MACD 近12日黃金交叉",
-        "DMI 翻多（ADX 10，趨勢剛形成）",
-        "KD 中低檔黃金交叉",
-        "RSI 69（健康區）",
-        "距 52 週低點 23%（初期）",
-        "量增 1.6x"
-      ],
-      "name": "三地開發",
-      "market": "上市",
-      "industry": "建材營造業"
+      "industry": "數位雲端"
     }
   ]
 }
