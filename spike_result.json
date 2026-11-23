@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-22T23:05:27.899984+08:00",
-  "total_scanned": 2262,
+  "generated_at": "2026-11-24T03:09:24.588324+08:00",
+  "total_scanned": 2264,
   "hits": [
     {
       "code": "2471",
       "price": 62.8,
       "daily_gain_pct": 10.0,
-      "vol_ratio": 4.54,
+      "vol_ratio": 3.34,
       "rsi": 59.3,
       "reasons": [
         "今日大漲 10.0%",
-        "爆量 4.5x"
+        "爆量 3.3x"
       ],
       "name": "資通",
       "market": "上市",
@@ -20,11 +20,11 @@
       "code": "6614",
       "price": 40.7,
       "daily_gain_pct": 10.0,
-      "vol_ratio": 3.69,
+      "vol_ratio": 8.27,
       "rsi": 64.0,
       "reasons": [
         "今日大漲 10.0%",
-        "爆量 3.7x"
+        "爆量 8.3x"
       ],
       "name": "資拓宏宇",
       "market": "上市",
@@ -34,39 +34,25 @@
       "code": "5457",
       "price": 23.75,
       "daily_gain_pct": 10.0,
-      "vol_ratio": 5.94,
+      "vol_ratio": 5.63,
       "rsi": 55.0,
       "reasons": [
         "今日大漲 10.0%",
-        "爆量 5.9x"
+        "爆量 5.6x"
       ],
       "name": "宣德",
       "market": "上櫃",
       "industry": "電子零組件業"
     },
     {
-      "code": "2468",
-      "price": 69.1,
-      "daily_gain_pct": 9.9,
-      "vol_ratio": 2.74,
-      "rsi": 58.9,
-      "reasons": [
-        "今日大漲 9.9%",
-        "爆量 2.7x"
-      ],
-      "name": "華經",
-      "market": "上市",
-      "industry": "資訊服務業"
-    },
-    {
       "code": "7765",
       "price": 294.5,
       "daily_gain_pct": 9.9,
-      "vol_ratio": 11.44,
+      "vol_ratio": 4.01,
       "rsi": 69.3,
       "reasons": [
         "今日大漲 9.9%",
-        "爆量 11.4x"
+        "爆量 4.0x"
       ],
       "name": "中華資安",
       "market": "上市",
@@ -76,71 +62,29 @@
       "code": "6725",
       "price": 155.0,
       "daily_gain_pct": 9.9,
-      "vol_ratio": 2.8,
+      "vol_ratio": 9.84,
       "rsi": 43.2,
       "reasons": [
         "今日大漲 9.9%",
-        "爆量 2.8x"
+        "爆量 9.8x"
       ],
       "name": "矽科宏晟",
       "market": "上櫃",
       "industry": "其他電子業"
     },
     {
-      "code": "7828",
-      "price": 1295.0,
-      "daily_gain_pct": 9.7,
-      "vol_ratio": 7.26,
-      "rsi": 51.9,
+      "code": "7767",
+      "price": 55.3,
+      "daily_gain_pct": 9.9,
+      "vol_ratio": 3.42,
+      "rsi": 55.9,
       "reasons": [
-        "今日大漲 9.7%",
-        "爆量 7.3x"
+        "今日大漲 9.9%",
+        "爆量 3.4x"
       ],
-      "name": "創新服務",
-      "market": "上櫃",
-      "industry": "半導體業"
-    },
-    {
-      "code": "6925",
-      "price": 101.0,
-      "daily_gain_pct": 9.7,
-      "vol_ratio": 3.89,
-      "rsi": 43.8,
-      "reasons": [
-        "今日大漲 9.7%",
-        "爆量 3.9x"
-      ],
-      "name": "意藍",
-      "market": "上櫃",
-      "industry": "數位雲端"
-    },
-    {
-      "code": "6148",
-      "price": 52.5,
-      "daily_gain_pct": 6.6,
-      "vol_ratio": 2.69,
-      "rsi": 62.7,
-      "reasons": [
-        "今日大漲 6.6%",
-        "爆量 2.7x"
-      ],
-      "name": "驊宏資",
+      "name": "仁大資訊",
       "market": "上櫃",
       "industry": "資訊服務業"
-    },
-    {
-      "code": "8068",
-      "price": 14.0,
-      "daily_gain_pct": 6.1,
-      "vol_ratio": 2.64,
-      "rsi": 35.6,
-      "reasons": [
-        "今日大漲 6.1%",
-        "爆量 2.6x"
-      ],
-      "name": "全達",
-      "market": "上櫃",
-      "industry": "電子通路業"
     }
   ]
 }

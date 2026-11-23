@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-22T23:02:44.091389+08:00",
-  "total_scanned": 2262,
+  "generated_at": "2026-11-24T03:02:40.525873+08:00",
+  "total_scanned": 2264,
   "hits": [
     {
       "code": "6614",
       "price": 40.7,
       "rsi": 64.0,
-      "vol_ratio": 2.81,
+      "vol_ratio": 3.54,
       "from_low_pct": 28.4,
       "adx_at_cross": 23.5,
       "reasons": [
@@ -16,7 +16,7 @@
         "KD 中低檔黃金交叉",
         "RSI 64（健康區）",
         "距 52 週低點 28%（初期）",
-        "量增 2.8x"
+        "量增 3.5x"
       ],
       "name": "資拓宏宇",
       "market": "上市",
